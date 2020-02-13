@@ -1,0 +1,40 @@
+---
+title: "index"
+author: "Malory Owen & Christopher Lortie"
+date: "2/13/2020"
+output: html_document
+---
+
+```{r data, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+library(vegan)
+
+focal <- read_csv("~/Masters/Mimic-Bird-Cacti-Mutualism/data.flower/mimic_flower_models/focal_bird_visitation.csv")
+cube <- read_csv("")
+cam <- read_csv("")
+
+```
+
+```{r, Viz, warning=FALSE}
+plant.type.hist <- ggplot(focal, aes(x=treatment)) +
+  geom_histogram(stat = "count") +
+  facet_grid(.~experiment) +
+  theme_classic()
+plant.type.hist
+
+behav.hist <- ggplot(focal, aes(x=behavior)) +
+  geom_histogram(stat = "count") +
+  facet_grid(.~experiment) +
+  theme_classic() +
+  theme(axis.text.x - element_text(angle = 90))
+behav.hist
+
+```
+
+
+```{r, models, warning=FAlSE}
+m1 <- 
+
+```
+

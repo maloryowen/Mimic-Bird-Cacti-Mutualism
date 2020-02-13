@@ -1,0 +1,11 @@
+Column,Description
+cactus.id,"unique cactus identifier, numeric"
+tag,metal tag associated with cactus
+fruit.id,"unique fruit identifier, numeric"
+fruit.weight,weight of fruit in grams
+fruit.x,"major axis of fruit, millimeters"
+fruit.y,"minor axis of fruit, millimeters"
+fruit.z,"height of fruit, millimeters"
+color,"color of fruit (grey, black, brown, yellow, green, and inbetweens)"
+seeds,number of seeds for that fruit
+mean fruit weight,mean weight of all fruits associated with the same mother cactus

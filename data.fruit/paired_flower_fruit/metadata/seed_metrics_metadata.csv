@@ -1,0 +1,7 @@
+Column,Description
+cactus.id,"unique cactus identifier, numeric"
+tag,metal tag associated with cactus
+fruit.id,"unique fruit identifier, numeric"
+seed.id,"unique seed identifier, numeric"
+seed.rep,"seed weighing replication, 1-5"
+seed.weight,"weight of seed, grams"

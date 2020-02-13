@@ -1,0 +1,20 @@
+Column,Description
+cactus.id,"unique cactus identifier, numeric"
+tag,metal tag associated with cactus
+lat,"latitude, degree decimel"
+lon,"longitude, degree decimel"
+x,"major axis, centimeters"
+y,"minor axis, centimeters"
+z,"height, centimeters"
+volume,"product of x, y, and z"
+newgrowth,total number of new growth branches determined in June 2019
+health,"scale 1-5, 1 being lowest health and 5 being highest, including scarification, rot, and branch death"
+branches,estimated total number of branches
+transect,"transect associated with each cactus, 1-5"
+meter,5 interval meters associated with each cactus
+distance,meter distance of cactus to transect at 90 degree angle
+blooms,"prescense of blooming flowers on June 9th, 2019"
+buds,estimated total number of buds (open or nonopened) associated with cactus
+fruits,total number of fruits found on or below cactus
+nest,presense of cactus wren nest
+notes,additional notes or observations

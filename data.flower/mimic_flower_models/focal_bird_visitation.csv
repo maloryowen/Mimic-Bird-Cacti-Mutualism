@@ -1,0 +1,89 @@
+bird_id,cactus_id,experiment,date,start_time,treatment,taxa,behavior,time,duration,latitude,longitude,x,y,z,volume,notes,photo
+86,74,flower,6/7/2019,15:30,pole,Costa's Hummingbird,Pollinating,15:40,20,34.78094,-115.66168,1,1,65,65,pollinated nearby cylindropuntia acanthocarpa afterwards/coordinates are not accurate,1 to 6
+87,74,flower,6/7/2019,15:30,pole,Costa's Hummingbird,Calling,16:15,5,34.78094,-115.66168,1,1,65,65,photos taken but did not appear in photos/coordinates are not accurate,7 to 9
+68,38,mimic,5/26/2019,8:20,zero,Costa's Hummingbird,Flying,9:10,1,34.78209,-115.66324,37,35,40,51800,briefly hovered over plant then flew close to me,81-85
+69,38,mimic,5/26/2019,8:20,zero,Blue-gray Gnatcatcher,Flying,9:12,1,34.78209,-115.66324,37,35,40,51800,flew over but did not land,
+42,23,mimic,5/21/2019,9:45,zero,Blue-gray Gnatcatcher,Flying,9:56,1,34.78215,-115.66313,42,38,31,49476,flew over but did not land,
+43,24,mimic,5/21/2019,10:50,thirty,Anna's Hummingbird,Pollinating,11:10,15,34.78216,-115.6636,26,25,28,18200,pollen on bill photographed,71-82
+44,24,mimic,5/21/2019,10:50,thirty,Blue-gray Gnatcatcher,Flying,11:14,1,34.78216,-115.6636,26,25,28,18200,flew over but did not land,
+59,32,mimic,5/24/2019,11:00,fifteen,Costa's Hummingbird,Pollinating,11:48,5,34.78222,-115.66376,55,40,55,121000,,152-154
+72,47,flower,5/29/2019,11:35,zero,Black-throated Sparrow,Sitting on Plant,12:22,15,34.78228,-115.66301,72,68,61,298656,,
+30,14,mimic,5/19/2019,8:40,fifteen,Violet-green Swallow,Flying,8:59,1,34.78231,-115.66378,57,44,45,112860,flew over but did not land,
+50,27,mimic,5/23/2019,9:30,fifteen,Costa's Hummingbird,Pollinating,9:50,60,34.78234,-115.66251,42,35,38,55860,stayed on nearby plants after pollinating,104-106
+51,27,mimic,5/23/2019,9:30,fifteen,Anna's Hummingbird,Pollinating,10:09,5,34.78234,-115.66251,42,35,38,55860,some photos before pollinating,107-115
+52,27,mimic,5/23/2019,9:30,fifteen,Costa's Hummingbird,Calling,10:27,5,34.78234,-115.66251,42,35,38,55860,hovering over focal plant while calling,116
+84,65,flower,6/5/2019,10:05,pole,Costa's Hummingbird,Pollinating,10:11,5,34.78239,-115.66248,1,1,65,65,,
+85,65,flower,6/5/2019,10:05,pole,Costa's Hummingbird,Flying,10:22,1,34.78239,-115.66248,1,1,65,65,flew over but did not land hovered about 20m away from focal plant for 20 seconds,
+35,19,mimic,5/20/2019,10:25,thirty,Blue-gray Gnatcatcher,Flying,11:03,1,34.7824,-115.66286,57,47,37,99123,flew over but did not land,
+31,16,mimic,5/19/2019,10:50,thirty,Costa's Hummingbird,Flying,10:50,1,34.78241,-115.66283,52,39,57,115596,flew over but did not land,
+32,16,mimic,5/19/2019,10:50,thirty,Anna's Hummingbird,Pollinating,10:51,15,34.78241,-115.66283,52,39,57,115596,,132-134
+33,16,mimic,5/19/2019,10:50,thirty,Costa's Hummingbird,Pollinating,11:00,10,34.78241,-115.66283,52,39,57,115596,,
+25,10,mimic,5/17/2019,8:35,thirty,Costa's Hummingbird,Copulating,9:04,1,34.78245,-115.6634,48,49,41,96432,Male 25 chasing F 26 closely behind M calling may be copulating attempt or sparring,
+26,10,mimic,5/17/2019,8:35,thirty,Costa's Hummingbird,Copulating,9:04,1,34.78245,-115.6634,48,49,41,96432,Male 25 chasing F 26 closely behind M calling may be copulating attempt or sparring,
+6,4,mimic,5/15/2019,13:20,fifteen,Blue-gray Gnatcatcher,Flying,13:45,1,34.78254,-115.66252,190,114,114,2469240,flew over but did not land,
+20,8,mimic,5/16/2019,10:20,pole,Costa's Hummingbird,Pollinating,10:35,35,34.78256,-115.66291,1,1,170,170,,39-87
+21,8,mimic,5/16/2019,10:20,pole,Anna's Hummingbird,Pollinating,11:15,5,34.78256,-115.66291,1,1,170,170,,88-91
+34,18,mimic,5/20/2019,9:20,zero,Say's Phoebe,Flying,10:03,1,34.78257,-115.6629,54,50,45,121500,landed but only very briefly,
+70,39,mimic,5/26/2019,9:25,fifteen,Costa's Hummingbird,Pollinating,9:48,1,34.78262,-115.66285,49,37,54,97902,vists only one flower,
+53,28,mimic,5/23/2019,10:35,pole,Ash-throated Flycatcher,Sitting on Plant,11:01,25,34.78263,-115.66346,1,1,65,65,sitting on cactus at base of pole,117-119
+45,26,mimic,5/23/2019,8:25,thirty,Costa's Hummingbird,Pollinating,8:58,5,34.78265,-115.66258,28,24,53,35616,,
+46,26,mimic,5/23/2019,8:25,thirty,Costa's Hummingbird,Pollinating,9:05,5,34.78265,-115.66258,28,24,53,35616,46 and 47 arrived together,
+47,26,mimic,5/23/2019,8:25,thirty,Costa's Hummingbird,Pollinating,9:05,10,34.78265,-115.66258,28,24,53,35616,46 and 47 arrived together,
+48,26,mimic,5/23/2019,8:25,thirty,Costa's Hummingbird,Pollinating,9:07,10,34.78265,-115.66258,28,24,53,35616,,
+49,26,mimic,5/23/2019,8:25,thirty,Costa's Hummingbird,Pollinating,9:23,5,34.78265,-115.66258,28,24,53,35616,possible repeat of 46,
+22,9,mimic,5/17/2019,7:15,fifteen,Black-throated Sparrow,Fleeing,7:15,10,34.78273,-115.6629,71,41,59,171749,BTSP chased out by COHU who was previously foraging nearby,
+23,9,mimic,5/17/2019,7:15,fifteen,Costa's Hummingbird,Sparring,7:15,1,34.78273,-115.6629,71,41,59,171749,,
+24,9,mimic,5/17/2019,7:15,fifteen,Anna's Hummingbird,Pollinating,7:35,5,34.78273,-115.6629,71,41,59,171749,,
+13,6,mimic,5/16/2019,8:10,fifteen,Blue-gray Gnatcatcher,Flying,8:30,1,34.78276,-115.66293,43,38,35,57190,flew over but did not land,
+14,6,mimic,5/16/2019,8:10,fifteen,Costa's Hummingbird,Pollinating,8:35,35,34.78276,-115.66293,43,38,35,57190,,28-Jan
+15,6,mimic,5/16/2019,8:10,fifteen,Costa's Hummingbird,Pollinating,8:39,10,34.78276,-115.66293,43,38,35,57190,,30-37
+16,6,mimic,5/16/2019,8:10,fifteen,Blue-gray Gnatcatcher,Flying,8:40,1,34.78276,-115.66293,43,38,35,57190,COHU chased out BGGN who did not land and COHU began territory display,
+17,6,mimic,5/16/2019,8:10,fifteen,Costa's Hummingbird,Sparring,8:40,1,34.78276,-115.66293,43,38,35,57190,COHU chased out BGGN who did not land and COHU began territory display,
+18,6,mimic,5/16/2019,8:10,fifteen,Costa's Hummingbird,Pollinating,8:41,5,34.78276,-115.66293,43,38,35,57190,,
+19,6,mimic,5/16/2019,8:10,fifteen,Blue-gray Gnatcatcher,Flying,9:09,1,34.78276,-115.66293,43,38,35,57190,flew over but did not land,
+27,13,mimic,5/19/2019,7:35,pole,Costa's Hummingbird,Pollinating,8:00,1,34.78276,-115.6631,1,1,64,64,,
+28,13,mimic,5/19/2019,7:35,pole,Wilson's Warbler,Flying,8:15,1,34.78276,-115.6631,1,1,64,64,flew over but did not land,
+29,13,mimic,5/19/2019,7:35,pole,Costa's Hummingbird,Flying,8:16,1,34.78276,-115.6631,1,1,64,64,flew over but did not land,
+60,34,mimic,5/25/2019,8:30,fifteen,Costa's Hummingbird,Flying,8:48,5,34.78277,-115.66321,61,65,44,174460,flew over and stopped and hovered over flowers but did not land,
+61,34,mimic,5/25/2019,8:30,fifteen,Costa's Hummingbird,Pollinating,9:11,20,34.78277,-115.66321,61,65,44,174460,perchec on shrub less than 1 meter away after pollination observation,17-Jan
+62,34,mimic,5/25/2019,8:30,fifteen,Costa's Hummingbird,Pollinating,9:14,15,34.78277,-115.66321,61,65,44,174460,repeat of 61,18-21
+88,81,flower,6/8/2019,10:15,pole,Costa's Hummingbird,Pollinating,10:44,5,34.78286,-115.6633,1,1,67,67,,
+80,60,flower,6/3/2019,14:40,thirty,Blue-gray Gnatcatcher,Flying,15:05,1,34.78288,-115.66283,104,100,63,655200,flew over but did not land,
+1,1,mimic,5/15/2019,10:05,thirty,Costa's Hummingbird,Pollinating,10:12,35,34.78291,-115.66252,175,165,122,3522750,perched on nearby plants,22-May
+2,1,mimic,5/15/2019,10:05,thirty,Costa's Hummingbird,Sparring,10:20,5,34.78291,-115.66252,175,165,122,3522750,first individual arrived slightly before sparring and was chased out,
+3,1,mimic,5/15/2019,10:05,thirty,Costa's Hummingbird,Sparring,10:20,5,34.78291,-115.66252,175,165,122,3522750,first individual arrived slightly before sparring and was chased out,
+4,1,mimic,5/15/2019,10:05,thirty,Costa's Hummingbird,Pollinating,10:23,15,34.78291,-115.66252,175,165,122,3522750,possibly repeat of 1,
+5,1,mimic,5/15/2019,10:05,thirty,Anna's Hummingbird,Pollinating,10:55,180,34.78291,-115.66252,175,165,122,3522750,,23-50
+7,5,mimic,5/16/2019,7:05,thirty,Black-throated Sparrow,Sitting on Plant,7:24,5,34.78291,-115.66265,163,155,102,2577030,,
+8,5,mimic,5/16/2019,7:05,thirty,Costa's Hummingbird,Pollinating,7:25,10,34.78291,-115.66265,163,155,102,2577030,,
+9,5,mimic,5/16/2019,7:05,thirty,Blue-gray Gnatcatcher,Calling,7:47,5,34.78291,-115.66265,163,155,102,2577030,,
+10,5,mimic,5/16/2019,7:05,thirty,Blue-gray Gnatcatcher,Flying,7:49,1,34.78291,-115.66265,163,155,102,2577030,flew over but did not land,
+11,5,mimic,5/16/2019,7:05,thirty,Blue-gray Gnatcatcher,Flying,7:58,1,34.78291,-115.66265,163,155,102,2577030,flew over but did not land,
+12,5,mimic,5/16/2019,7:05,thirty,Blue-gray Gnatcatcher,Flying,8:00,1,34.78291,-115.66265,163,155,102,2577030,flew over but did not land,
+64,36,mimic,5/25/2019,10:40,thirty,Costa's Hummingbird,Sparring,11:03,10,34.78291,-115.66289,56,50,53,148400,sparring above and on near plants 64 was apparent winner and remained nearby while calling,
+65,36,mimic,5/25/2019,10:40,thirty,Costa's Hummingbird,Sparring,11:03,10,34.78291,-115.66289,56,50,53,148400,sparring above and on near plants 64 was apparent winner and remained nearby while calling,
+66,36,mimic,5/25/2019,10:40,thirty,Blue-gray Gnatcatcher,Flying,11:07,1,34.78291,-115.66289,56,50,53,148400,flew over but did not land,
+67,36,mimic,5/25/2019,10:40,thirty,Costa's Hummingbird,Calling,11:18,75,34.78291,-115.66289,56,50,53,148400,inspecting me then flew over focal plant then foraged at nearby non focal plants,22
+39,21,mimic,5/21/2019,7:35,pole,Costa's Hummingbird,Pollinating,7:55,15,34.78294,-115.66315,1,1,64,64,,
+40,21,mimic,5/21/2019,7:35,pole,Costa's Hummingbird,Pollinating,7:57,5,34.78294,-115.66315,1,1,64,64,repeat of 39,
+41,21,mimic,5/21/2019,7:35,pole,Blue-gray Gnatcatcher,Sitting on Plant,8:23,10,34.78294,-115.66315,1,1,64,64,on shrub at base of pole,
+36,20,mimic,5/20/2019,11:30,fifteen,Violet-green Swallow,Flying,11:45,1,34.78299,-115.66266,67,45,46,138690,flew over but did not land,
+37,20,mimic,5/20/2019,11:30,fifteen,Blue-gray Gnatcatcher,Flying,11:47,1,34.78299,-115.66266,67,45,46,138690,flew over but did not land,
+38,20,mimic,5/20/2019,11:30,fifteen,Blue-gray Gnatcatcher,Sitting on Plant,12:02,10,34.78299,-115.66266,67,45,46,138690,,
+63,35,mimic,5/25/2019,9:35,zero,Costa's Hummingbird,Flying,10:18,1,34.78301,-115.66284,123,99,68,828036,flew over but did not land,
+77,55,flower,6/2/2019,16:05,pole,Black-throated Sparrow,Flying,16:30,1,34.78302,-115.66271,1,1,68,68,flew over but did not land,
+78,55,flower,6/2/2019,16:05,pole,Costa's Hummingbird,Pollinating,16:41,10,34.78302,-115.66271,1,1,68,68,,
+79,55,flower,6/2/2019,16:05,pole,Costa's Hummingbird,Pollinating,16:52,10,34.78302,-115.66271,1,1,68,68,,
+71,40,mimic,5/26/2019,10:30,pole,Costa's Hummingbird,Pollinating,10:56,5,34.78307,-115.66255,1,1,67,67,pollinated nearby cylindropuntia acanthocarpa afterwards,
+54,29,mimic,5/24/2019,7:45,pole,Costa's Hummingbird,Pollinating,7:50,5,34.78311,-115.66329,1,1,67,67,,
+55,29,mimic,5/24/2019,7:45,pole,Anna's Hummingbird,Pollinating,7:57,5,34.78311,-115.66329,1,1,67,67,,
+56,29,mimic,5/24/2019,7:45,pole,Costa's Hummingbird,Pollinating,7:58,5,34.78311,-115.66329,1,1,67,67,,
+57,29,mimic,5/24/2019,7:45,pole,Anna's Hummingbird,Pollinating,8:09,5,34.78311,-115.66329,1,1,67,67,,
+58,31,mimic,5/24/2019,9:55,thirty,Costa's Hummingbird,Flying,10:43,1,34.78312,-115.66247,36,23,46,38088,flew over but did not land,
+73,49,flower,5/30/2019,18:20,pole,Costa's Hummingbird,Pollinating,18:26,10,34.78312,-115.66278,1,1,65,65,calling as well,
+74,49,flower,5/30/2019,18:20,pole,Costa's Hummingbird,Pollinating,18:28,5,34.78312,-115.66278,1,1,65,65,,
+75,49,flower,5/30/2019,18:20,pole,Costa's Hummingbird,Pollinating,18:41,5,34.78312,-115.66278,1,1,65,65,calling and another COHU calling nearby ,
+76,49,flower,5/30/2019,18:20,pole,Costa's Hummingbird,Pollinating,18:41,10,34.78312,-115.66278,1,1,65,65,not a repeat of 75,
+81,62,flower,6/4/2019,16:30,pole,Costa's Hummingbird,Pollinating,17:10,10,34.78343,-115.66315,1,1,65,65,perched nearby after pollinating,
+82,62,flower,6/4/2019,16:30,pole,Costa's Hummingbird,Pollinating,17:16,5,34.78343,-115.66315,1,1,65,65,,
+83,62,flower,6/4/2019,16:30,pole,Costa's Hummingbird,Pollinating,17:27,5,34.78343,-115.66315,1,1,65,65,,

@@ -1,0 +1,868 @@
+bird_id,date,walk,start_time,end_time,lat,lon,order,family,species,phagy,behavior,broad_behavior,mesohabitat,photo_id,time,distance,transect,transect_start_lat,transect_start_lon,transect_end_lat,transect_end_lon,notes
+1,5/1/2019,1,10:27,12:27,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,10:27,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+2,5/1/2019,1,10:27,12:27,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,10:29,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+3,5/1/2019,1,10:27,12:27,34.78404,-115.66031,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,air,no photo,10:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+4,5/1/2019,1,10:27,12:27,34.7829,-115.66235,Columbiformes,Columbidae,Mourning Dove,,Standing on Ground,Inactive,rock,no photo,10:37,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+5,5/1/2019,1,10:27,12:27,34.7823,-115.66251,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying Between Plants,Active movement,cactus canopy,no photo,10:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+6,5/1/2019,1,10:27,12:27,34.78244,-115.66246,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,cactus canopy,4-Jan,10:48,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+7,5/1/2019,1,10:27,12:27,34.78238,-115.66262,Passeriformes,Fringillidae,House Finch,,Sitting on Plant,Inactive,cactus canopy,8-May,10:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+8,5/1/2019,1,10:27,12:27,34.78224,-115.66208,Unknown,Unknown,Unknown,Unknown,Flying,Active movement,rock,12-Sep,10:55,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+9,5/1/2019,1,10:27,12:27,34.7823,-115.66251,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,13.14,10:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+10,5/1/2019,1,10:27,12:27,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,10:58,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+11,5/1/2019,1,10:27,12:27,34.78249,-115.66231,Unknown,Unknown,Unknown,Unknown,Flying on Plant,Active movement,shrub,15.21,11:02,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+12,5/1/2019,1,10:27,12:27,34.78225,-115.66197,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,shrub,21.25,11:07,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+13,5/1/2019,1,10:27,12:27,34.78205,-115.66205,Apodiformes,Trochilidae,Hummingbird,nectarivore,Foraging,Foraging,cactus canopy,no photo,11:08,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+14,5/1/2019,1,10:27,12:27,34.782,-115.66183,Passeriformes,Mimidae,Northern Mockingbird,,Sitting on Plant,Inactive,shrub,92.31,11:15,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+15,5/1/2019,1,10:27,12:27,34.78204,-115.66185,Unknown,Unknown,Unknown,Unknown,Standing on Ground,Inactive,rock,32.39,11:18,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+16,5/1/2019,1,10:27,12:27,34.78215,-115.66238,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying Between Plants,Active movement,shrub,no photo,11:26,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+17,5/1/2019,1,10:27,12:27,34.78228,-115.66245,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,cactus canopy,no photo,11:27,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+18,5/1/2019,1,10:27,12:27,34.78241,-115.66244,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,rock,no photo,11:28,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+19,5/1/2019,1,10:27,12:27,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,11:28,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+20,5/1/2019,1,10:27,12:27,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:31,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+21,5/1/2019,1,10:27,12:27,34.78164,-115.66261,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,11:34,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+22,5/1/2019,1,10:27,12:27,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:34,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+23,5/1/2019,1,10:27,12:27,34.78138,-115.256,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,40.43,11:34,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+24,5/1/2019,1,10:27,12:27,34.78145,-115.66306,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,44.66,11:42,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+25,5/1/2019,1,10:27,12:27,34.78145,-115.66306,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,44.66,11:42,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+26,5/1/2019,1,10:27,12:27,34.78145,-115.66306,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,44.66,11:42,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+27,5/1/2019,1,10:27,12:27,34.78145,-115.66306,Unknown,Unknown,Unknown,Unknown,Standing on Ground,Inactive,rock,44.66,11:42,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+28,5/1/2019,1,10:27,12:27,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,11:52,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+29,5/1/2019,1,10:27,12:27,34.78096,-115.66263,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,cactus canopy,no photo,11:55,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+30,5/1/2019,1,10:27,12:27,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:57,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+31,5/1/2019,1,10:27,12:27,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,11:59,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+32,5/1/2019,1,10:27,12:27,34.77952,-115.66265,Unknown,Unknown,Unknown,Unknown,Flying Between Plants,Active movement,cactus understory,67.71,12:05,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+33,5/1/2019,1,10:27,12:27,34.77952,-115.66265,Unknown,Unknown,Unknown,Unknown,Flying Between Plants,Active movement,cactus understory,67.71,12:05,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+34,5/1/2019,1,10:27,12:27,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,12:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+35,5/1/2019,1,10:27,12:27,34.7785,-115.66306,Passeriformes,Cardinalidae,Black.headed Grosbeak,,Sitting on Plant,Inactive,shrub,72.84,12:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+36,5/1/2019,1,10:27,12:27,34.77835,-115.66309,Passeriformes,Cardinalidae,Black.headed Grosbeak,,Sitting on Plant,Inactive,shrub,72.84,12:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+37,5/1/2019,1,10:27,12:27,34.77834,-115.66309,Passeriformes,Cardinalidae,Black.headed Grosbeak,,Sitting on Plant,Inactive,shrub,72.84,12:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+38,5/1/2019,1,10:27,12:27,34.77821,-115.66322,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,12:18,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+39,5/1/2019,1,10:27,12:27,34.77887,-115.66273,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,85.97,12:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+40,5/1/2019,2,14:31,16:31,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,14:34,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+41,5/1/2019,2,14:31,16:31,34.78279,-115.66315,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying on Plant,Active movement,shrub,no photo,14:34,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+42,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,14:36,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+43,5/1/2019,2,14:31,16:31,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,14:37,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+44,5/1/2019,2,14:31,16:31,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,14:43,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+45,5/1/2019,2,14:31,16:31,34.78221,-115.66355,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,14:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+46,5/1/2019,2,14:31,16:31,34.7822,-115.66359,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,14:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+47,5/1/2019,2,14:31,16:31,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,14:49,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+48,5/1/2019,2,14:31,16:31,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,14:49,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+49,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+50,5/1/2019,2,14:31,16:31,34.78115,-115.6631,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,cactus canopy,no photo,14:57,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+51,5/1/2019,2,14:31,16:31,34.7809,-115.66307,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,7-Jan,14:59,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+52,5/1/2019,2,14:31,16:31,34.7809,-115.66308,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,cactus canopy,no photo,14:59,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+53,5/1/2019,2,14:31,16:31,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,15:04,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+54,5/1/2019,2,14:31,16:31,34.77994,-115.66382,Passeriformes,Icteridae,Wilson's Warbler,,Foraging,Foraging,shrub,24-Aug,15:16,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+55,5/1/2019,2,14:31,16:31,34.77972,-115.66365,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,shrub,no photo,15:17,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+56,5/1/2019,2,14:31,16:31,34.7791,-115.6651,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,cactus canopy,25.43,15:28,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+57,5/1/2019,2,14:31,16:31,34.7791,-115.6651,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,shrub,no photo,15:29,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+58,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,15:36,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+59,5/1/2019,2,14:31,16:31,34.77969,-115.66403,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,no photo,15:39,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+60,5/1/2019,2,14:31,16:31,34.77963,-115.66394,Passeriformes,Parulidae,Wilson's Warbler,,Foraging,Foraging,shrub,no photo,15:42,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+61,5/1/2019,2,14:31,16:31,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,15:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+62,5/1/2019,2,14:31,16:31,34.78115,-115.66349,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,shrub,no photo,15:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+63,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+64,5/1/2019,2,14:31,16:31,34.7813,-115.66336,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,no photo,15:57,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+65,5/1/2019,2,14:31,16:31,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,16:00,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+66,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,16:03,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+67,5/1/2019,2,14:31,16:31,34.78174,-115.6636,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,no photo,16:03,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+68,5/1/2019,2,14:31,16:31,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,16:04,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+69,5/1/2019,2,14:31,16:31,34.78182,-115.66302,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Flying,Active movement,rock,44.64,16:07,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+70,5/1/2019,2,14:31,16:31,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,air,no photo,16:11,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+71,5/1/2019,2,14:31,16:31,34.78219,-115.66343,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Calling,Vocalization,shrub,70.73,16:16,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+72,5/1/2019,2,14:31,16:31,34.78219,-115.66343,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,16:16,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+73,5/1/2019,2,14:31,16:31,34.78219,-115.66343,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,16:16,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+74,5/1/2019,2,14:31,16:31,34.78221,-115.66338,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,shrub,no photo,16:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+75,5/1/2019,2,14:31,16:31,34.78255,-115.66326,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,shrub,no photo,16:23,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+76,5/1/2019,2,14:31,16:31,34.78256,-115.66327,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,gravel,no photo,16:22,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+77,5/1/2019,2,14:31,16:31,34.78258,-115.66326,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,gravel,no photo,16:22,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+78,5/1/2019,3,16:35,18:35,34.78313,-115.66232,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,gravel,no photo,16:35,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+79,5/1/2019,3,16:35,18:35,34.78313,-115.66223,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,gravel,no photo,16:35,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+80,5/1/2019,3,16:35,18:35,34.78313,-115.66227,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,121.123,16:44,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+81,5/1/2019,3,16:35,18:35,34.77223,-115.66269,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,124.131,16:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+82,5/1/2019,3,16:35,18:35,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,16:53,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+83,5/1/2019,3,16:35,18:35,34.78244,-115.66243,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,shrub,132.137,16:55,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+84,5/1/2019,3,16:35,18:35,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,16:56,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+85,5/1/2019,3,16:35,18:35,34.78229,-115.66205,Passeriformes,Fringillidae,House Finch,,Standing on Ground,Inactive,rock,140.143,16:59,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+86,5/1/2019,3,16:35,18:35,34.78203,-115.66192,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,shrub,138.139,16:57,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+87,5/1/2019,3,16:35,18:35,34.78229,-115.66205,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,no photo,17:01,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+88,5/1/2019,3,16:35,18:35,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,17:04,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+89,5/1/2019,3,16:35,18:35,34.78188,-115.6618,Passeriformes,Ptiliogonatidae,Phainopepla,,Standing on Ground,Inactive,rock,144.145,17:09,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+90,5/1/2019,3,16:35,18:35,34.78188,-115.6618,Passeriformes,Ptiliogonatidae,Phainopepla,,Standing on Ground,Inactive,rock,no photo,17:09,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+91,5/1/2019,3,16:35,18:35,34.78119,-115.66261,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,17:11,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+92,5/1/2019,3,16:35,18:35,34.78119,-115.66261,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,cactus canopy,no photo,17:11,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+93,5/1/2019,3,16:35,18:35,,,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,17:24,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+94,5/1/2019,3,16:35,18:35,,,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,17:24,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+95,5/1/2019,3,16:35,18:35,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,17:36,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+96,5/1/2019,3,16:35,18:35,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,17:39,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+97,5/1/2019,3,16:35,18:35,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,17:39,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+98,5/1/2019,3,16:35,18:35,,,Passeriformes,Tyrannidae,Say's Phoebe,,Flying,Active movement,air,152.155,17:43,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+99,5/1/2019,3,16:35,18:35,,,Passeriformes,Mimidae,Northern Mockingbird,,Sitting on Plant,Inactive,cactus canopy,no photo,17:50,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+100,5/1/2019,3,16:35,18:35,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,17:56,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+101,5/1/2019,3,16:35,18:35,34.77935,-115.66249,Passeriformes,Mimidae,Northern Mockingbird,,Flying Between Plants,Active movement,shrub,no photo,18:00,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+102,5/1/2019,3,16:35,18:35,34.78146,-115.66301,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,157.171,18:14,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+103,5/1/2019,3,16:35,18:35,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,18:15,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+104,5/1/2019,3,16:35,18:35,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,rock,no photo,18:17,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+105,5/1/2019,3,16:35,18:35,34.78271,-115.66242,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,shrub,no photo,18:22,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+106,5/1/2019,3,16:35,18:35,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,18:23,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+107,5/1/2019,3,16:35,18:35,34.78299,-115.66221,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,cactus canopy,no photo,18:24,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+108,5/1/2019,3,16:35,18:35,34.78299,-115.66221,Passeriformes,Fringillidae,House Finch,,Sparring,Terriotial or mating behavior,cactus canopy,no photo,18:24,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+109,5/2/2019,4,6:25,8:25,34.78297,-115.66302,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Calling,Vocalization,shrub,no photo,6:25,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+110,5/2/2019,4,6:25,8:25,34.294,-115.66297,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Flying,Active movement,shrub,175.19,6:25,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+111,5/2/2019,4,6:25,8:25,34.78289,-115.66292,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,191,6:27,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+112,5/2/2019,4,6:25,8:25,34.78289,-115.66292,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:27,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+113,5/2/2019,4,6:25,8:25,34.78296,-115.6629,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Sitting on Plant,Inactive,shrub,no photo,6:27,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+114,5/2/2019,4,6:25,8:25,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,6:29,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+115,5/2/2019,4,6:25,8:25,34.78319,-115.66304,Columbiformes,Columbidae,Mourning Dove,,Standing on Ground,Inactive,rock,192.195,6:33,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+116,5/2/2019,4,6:25,8:25,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:33,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+117,5/2/2019,4,6:25,8:25,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,195.198,6:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+118,5/2/2019,4,6:25,8:25,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,6:39,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+119,5/2/2019,4,6:25,8:25,34.78277,-115.6632,Columbiformes,Columbidae,Mourning Dove,,Standing on Ground,Inactive,rock,no photo,6:44,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+120,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:44,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+121,5/2/2019,4,6:25,8:25,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,6:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+122,5/2/2019,4,6:25,8:25,34.78263,-115.66328,Passeriformes,Fringillidae,House finch,,Sitting on Plant,Inactive,shrub,199.202,6:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+123,5/2/2019,4,6:25,8:25,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+124,5/2/2019,4,6:25,8:25,34.78264,-115.66289,Passeriformes,Ptiliogonatidae,Phainopepla,,Foraging,Foraging,cactus canopy,no photo,6:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+125,5/2/2019,4,6:25,8:25,34.78262,-115.66289,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,shrub,no photo,6:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+126,5/2/2019,4,6:25,8:25,34.78279,-115.66282,Passeriformes,Passerellidae,Green.tailed Towhee,,Sitting on Plant,Inactive,shrub,203.214,6:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+127,5/2/2019,4,6:25,8:25,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:56,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+128,5/2/2019,4,6:25,8:25,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:56,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+129,5/2/2019,4,6:25,8:25,34.78285,-115.6628,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,cactus canopy,no photo,7:03,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+130,5/2/2019,4,6:25,8:25,34.78285,-115.6628,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Sparring,Terriotial or mating behavior,cactus canopy,no photo,7:03,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+131,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:16,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+132,5/2/2019,4,6:25,8:25,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,7:19,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+133,5/2/2019,4,6:25,8:25,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,7:19,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+134,5/2/2019,4,6:25,8:25,34.78246,-115.66362,Passeriformes,Mimidae,Crissal's Thrasher,,Standing on Ground,Inactive,rock,no photo,7:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+135,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,rock,no photo,7:20,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+136,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:25,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+137,5/2/2019,4,6:25,8:25,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,7:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+138,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+139,5/2/2019,4,6:25,8:25,34.7821,-115.66351,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,rock,no photo,7:30,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+140,5/2/2019,4,6:25,8:25,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,7:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+141,5/2/2019,4,6:25,8:25,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,7:32,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+142,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+143,5/2/2019,4,6:25,8:25,34.78139,-115.66357,Apodiformes,Trochilidae,Hummingbird,nectarivore,Foraging,Foraging,shrub,no photo,7:39,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+144,5/2/2019,4,6:25,8:25,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,7:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+145,5/2/2019,4,6:25,8:25,34.78102,-115.66364,Passeriformes,Passerellidae,Green.tailed Towhee,,Standing on Ground,Inactive,grass,no photo,7:44,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+146,5/2/2019,4,6:25,8:25,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,7:45,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+147,5/2/2019,4,6:25,8:25,34.78045,-115.66381,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+148,5/2/2019,4,6:25,8:25,34.78045,-115.66381,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:51,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+149,5/2/2019,4,6:25,8:25,34.78045,-115.66381,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,7:51,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+150,5/2/2019,4,6:25,8:25,34.78045,-115.66381,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,7:51,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+151,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:58,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+152,5/2/2019,4,6:25,8:25,34.78022,-115.6636,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,7:58,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+153,5/2/2019,4,6:25,8:25,34.77996,-115.66391,Passeriformes,Tyrannidae,Hammond's Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,260.274,8:05,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+154,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:07,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+155,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:07,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+156,5/2/2019,4,6:25,8:25,34.77985,-115.66386,Apodiformes,Trochilidae,Black.chinned hummingbird,nectarivore,Singing,Vocalization,shrub,no photo,8:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+157,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:16,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+158,5/2/2019,4,6:25,8:25,34.77906,-115.66485,Passeriformes,Mimidae,Northern Mockingbird,,Flying Between Plants,Active movement,shrub,no photo,8:19,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+159,5/2/2019,4,6:25,8:25,34.77882,-115.66496,Passeriformes,Mimidae,Northern Mockingbird,,Sparring,Terriotial or mating behavior,shrub,no photo,8:20,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+160,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:21,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+161,5/2/2019,4,6:25,8:25,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Sparring,Terriotial or mating behavior,shrub,no photo,8:21,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+162,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+163,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+164,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+165,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+166,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+167,5/2/2019,4,6:25,8:25,34.77856,-115.6641,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,281.282,8:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+168,5/2/2019,4,6:25,8:25,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,shrub,283.291,8:25,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+169,5/2/2019,5,8:36,10:36,34.77857,-115.66254,Passeriformes,Tyrannidae,Say's Phoebe,,Flying Between Plants,Active movement,shrub,292.31,8:44,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+170,5/2/2019,5,8:36,10:36,34.77851,-115.66257,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,shrub,no photo,8:44,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+171,5/2/2019,5,8:36,10:36,34.77926,-115.66274,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sparring,Terriotial or mating behavior,cactus canopy,311.312,8:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+172,5/2/2019,5,8:36,10:36,34.77926,-115.66274,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sparring,Terriotial or mating behavior,cactus canopy,311.312,8:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+173,5/2/2019,5,8:36,10:36,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:56,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+174,5/2/2019,5,8:36,10:36,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,no visual,no photo,9:00,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+175,5/2/2019,5,8:36,10:36,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,no visual,no photo,9:00,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+176,5/2/2019,5,8:36,10:36,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,9:01,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+177,5/2/2019,5,8:36,10:36,34.78047,-115.66291,Passeriformes,Tyrannidae,Say's Phoebe,,Calling,Vocalization,cactus canopy,no photo,9:08,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+178,5/2/2019,5,8:36,10:36,34.78044,-115.66278,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,cactus canopy,no photo,9:07,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+179,5/2/2019,5,8:36,10:36,34.78105,-115.66305,Passeriformes,Tyrannidae,Say's Phoebe,,Calling,Vocalization,shrub,no photo,9:14,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+180,5/2/2019,5,8:36,10:36,34.78105,-115.66305,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,shrub,no photo,9:14,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+181,5/2/2019,5,8:36,10:36,34.78146,-115.66277,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,no photo,9:19,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+182,5/2/2019,5,8:36,10:36,34.78161,-115.66263,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,rock,no photo,9:26,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+183,5/2/2019,5,8:36,10:36,34.78159,-115.66264,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,air,no photo,9:23,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+184,5/2/2019,5,8:36,10:36,34.7821,-115.66239,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,shrub,331.337,9:30,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+185,5/2/2019,5,8:36,10:36,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,9:32,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+186,5/2/2019,5,8:36,10:36,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,9:33,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+187,5/2/2019,5,8:36,10:36,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,9:36,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+188,5/2/2019,5,8:36,10:36,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,9:39,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+189,5/2/2019,5,8:36,10:36,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,9:41,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+190,5/2/2019,5,8:36,10:36,34.77288,-115.6626,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,air,no photo,9:43,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+191,5/2/2019,5,8:36,10:36,,,Passeriformes,Fringillidae,House finch,,Calling,Vocalization,no visual,no photo,9:46,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+192,5/2/2019,5,8:36,10:36,34.78212,-115.66229,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Flying Between Plants,Active movement,shrub,338.366,9:48,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+193,5/2/2019,5,8:36,10:36,34.78211,-115.66255,Passeriformes,Mimidae,Northern Mockingbird,,Sparring,Terriotial or mating behavior,shrub,367.372,9:53,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+194,5/2/2019,5,8:36,10:36,34.78211,-115.66255,Passeriformes,Ptiliogonatidae,Phainopepla,,Sparring,Terriotial or mating behavior,no visual,no photo,9:53,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+195,5/2/2019,5,8:36,10:36,34.78224,-115.66245,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,373.38,10:00,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+196,5/2/2019,5,8:36,10:36,34.78223,-115.66261,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,10:00,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+197,5/2/2019,5,8:36,10:36,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,10:01,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+198,5/2/2019,5,8:36,10:36,34.7827,-115.66242,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,rock,no photo,10:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+199,5/2/2019,5,8:36,10:36,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,10:09,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+200,5/2/2019,5,8:36,10:36,34.78292,-115.66232,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,rock,no photo,10:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+201,5/2/2019,5,8:36,10:36,34.78292,-115.66232,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,rock,no photo,10:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+202,5/2/2019,5,8:36,10:36,,,Passeriformes,Fringillidae,House finch,,Singing,Vocalization,no visual,no photo,10:18,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+203,5/2/2019,5,8:36,10:36,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Foraging,Foraging,cactus canopy,381.411,10:18,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+204,5/2/2019,6,10:43,12:43,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,10:48,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+205,5/2/2019,6,10:43,12:43,34.78267,-115.66302,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,air,no photo,10:49,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+206,5/2/2019,6,10:43,12:43,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,10:50,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+207,5/2/2019,6,10:43,12:43,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,10:52,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+208,5/2/2019,6,10:43,12:43,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,10:53,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+209,5/2/2019,6,10:43,12:43,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,10:53,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+210,5/2/2019,6,10:43,12:43,34.78267,-115.66292,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,air,no photo,10:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+211,5/2/2019,6,10:43,12:43,34.78254,-115.66293,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying Between Plants,Active movement,cactus canopy,no photo,10:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+212,5/2/2019,6,10:43,12:43,34.78269,-115.66301,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Carrying Nest Materials,Terriotial or mating behavior,shrub,no photo,10:58,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+213,5/2/2019,6,10:43,12:43,34.78251,-115.6629,Passeriformes,Mimidae,Northern Mockingbird,,Flying Between Plants,Active movement,cactus canopy,no photo,11:01,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+214,5/2/2019,6,10:43,12:43,34.78239,-115.66283,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,11:01,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+215,5/2/2019,6,10:43,12:43,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,shrub,429.442,11:06,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+216,5/2/2019,6,10:43,12:43,34.78245,-115.66336,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,443.527,11:11,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+217,5/2/2019,6,10:43,12:43,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,11:15,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+218,5/2/2019,6,10:43,12:43,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:15,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+219,5/2/2019,6,10:43,12:43,34.7821,-115.66343,Passeriformes,Passerellidae,Green.tailed Towhee,,Sitting on Plant,Inactive,shrub,528.543,11:19,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+220,5/2/2019,6,10:43,12:43,34.7821,-115.66343,Passeriformes,Passerellidae,Green.tailed Towhee,,Sitting on Plant,Inactive,shrub,528.543,11:19,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+221,5/2/2019,6,10:43,12:43,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,11:20,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+222,5/2/2019,6,10:43,12:43,34.78191,-115.66333,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,544.549,11:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+223,5/2/2019,6,10:43,12:43,34.78191,-115.66333,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,544.549,11:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+224,5/2/2019,6,10:43,12:43,34.78191,-115.66333,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,544.549,11:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+225,5/2/2019,6,10:43,12:43,34.78191,-115.66333,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,544.549,11:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+226,5/2/2019,6,10:43,12:43,34.78191,-115.66333,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,544.549,11:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+227,5/2/2019,6,10:43,12:43,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,11:33,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+228,5/2/2019,6,10:43,12:43,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,11:35,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+229,5/2/2019,6,10:43,12:43,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,11:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+230,5/2/2019,6,10:43,12:43,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,11:41,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+231,5/2/2019,6,10:43,12:43,34.78047,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,561.566,11:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+232,5/2/2019,6,10:43,12:43,34.78047,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,561.566,11:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+233,5/2/2019,6,10:43,12:43,34.78032,-115.66351,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,cactus canopy,no photo,11:49,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+234,5/2/2019,6,10:43,12:43,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:00,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+235,5/2/2019,6,10:43,12:43,34.77909,-115.66425,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,12:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+236,5/2/2019,6,10:43,12:43,34.77909,-115.66425,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,12:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+237,5/2/2019,7,14:30,16:30,34.78297,-115.66238,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,567.573,14:30,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+238,5/2/2019,7,14:30,16:30,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Singing,Vocalization,air,no photo,14:33,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+239,5/2/2019,7,14:30,16:30,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,14:35,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+240,5/2/2019,7,14:30,16:30,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,no visual,no photo,14:36,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+241,5/2/2019,7,14:30,16:30,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,air,no photo,14:38,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+242,5/2/2019,7,14:30,16:30,34.78216,-115.66238,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,shrub,no photo,14:40,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+243,5/2/2019,7,14:30,16:30,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,14:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+244,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,air,no photo,14:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+245,5/2/2019,7,14:30,16:30,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,14:49,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+246,5/2/2019,7,14:30,16:30,34.78173,-115.66222,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,air,no photo,14:51,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+247,5/2/2019,7,14:30,16:30,34.78168,-115.66232,Passeriformes,Mimidae,Northern Mockingbird,,Sparring,Terriotial or mating behavior,shrub,no photo,14:55,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+248,5/2/2019,7,14:30,16:30,34.78153,-115.66277,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,575.594,15:00,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+250,5/2/2019,7,14:30,16:30,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,15:01,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+251,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,15:06,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+252,5/2/2019,7,14:30,16:30,34.78026,-115.66292,Unknown,Unknown,Unknown,Unknown,Flying Between Plants,Active movement,cactus canopy,595.599,15:17,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+253,5/2/2019,7,14:30,16:30,34.78027,-115.66291,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,15:19,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+254,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:34,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+255,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:34,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+256,5/2/2019,7,14:30,16:30,34.7793,-115.66295,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,15:39,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+257,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,15:44,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+258,5/2/2019,7,14:30,16:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,16:17,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+259,5/3/2019,8,6:15,8:15,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:15,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+260,5/3/2019,8,6:15,8:15,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,no visual,no photo,6:16,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+261,5/3/2019,8,6:15,8:15,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,6:16,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+262,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:16,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+263,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:20,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+264,5/3/2019,8,6:15,8:15,34.78293,-115.66306,Passeriformes,Fringillidae,House Finch,,Flying,Active movement,rock,4-Jan,6:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+265,5/3/2019,8,6:15,8:15,34.78293,-115.66306,Passeriformes,Fringillidae,House Finch,,Flying,Active movement,rock,4-Jan,6:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+266,5/3/2019,8,6:15,8:15,34.78297,-115.66343,Apodiformes,Apodidae,White.throated Swift,,Flying,Active movement,air,7-May,6:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+267,5/3/2019,8,6:15,8:15,34.78297,-115.66343,Apodiformes,Apodidae,White.throated Swift,,Flying,Active movement,air,7-May,6:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+268,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:32,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+269,5/3/2019,8,6:15,8:15,34.78265,-115.663,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:36,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+270,5/3/2019,8,6:15,8:15,34.78265,-115.663,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:36,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+271,5/3/2019,8,6:15,8:15,34.78265,-115.663,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sparring,Terriotial or mating behavior,shrub,no photo,6:36,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+272,5/3/2019,8,6:15,8:15,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,6:37,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+273,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:44,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+274,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:44,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+275,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+276,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+277,5/3/2019,8,6:15,8:15,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,6:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+278,5/3/2019,8,6:15,8:15,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,6:47,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+279,5/3/2019,8,6:15,8:15,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,6:47,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+280,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:49,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+281,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,6:49,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+282,5/3/2019,8,6:15,8:15,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,no visual,no photo,6:49,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+283,5/3/2019,8,6:15,8:15,34.78238,-115.66337,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,no photo,6:53,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+284,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+285,5/3/2019,8,6:15,8:15,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,6:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+286,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:53,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+287,5/3/2019,8,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,6:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+288,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:58,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+289,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:58,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+290,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:58,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+291,5/3/2019,8,6:15,8:15,34.78128,-115.66327,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying Between Plants,Active movement,shrub,no photo,7:10,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+292,5/3/2019,8,6:15,8:15,34.78136,-115.66323,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,shrub,10-Aug,7:10,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+293,5/3/2019,8,6:15,8:15,34.78117,-115.66361,Passeriformes,Parulidae,MacGillivray's Warbler,,Flying on Plant,Active movement,shrub,25-Nov,7:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+294,5/3/2019,8,6:15,8:15,34.7811,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+295,5/3/2019,8,6:15,8:15,34.7811,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+296,5/3/2019,8,6:15,8:15,34.7811,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+297,5/3/2019,8,6:15,8:15,34.7811,-115.66344,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+298,5/3/2019,8,6:15,8:15,34.7808,-115.66372,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Foraging,Foraging,shrub,no photo,7:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+299,5/3/2019,8,6:15,8:15,34.78063,-115.66381,Passeriformes,Parulidae,Wilson's Warbler,,Flying on Plant,Active movement,shrub,28.3,7:34,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+300,5/3/2019,8,6:15,8:15,34.78037,-115.66383,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,shrub,31.44,7:44,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+301,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+302,5/3/2019,8,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:47,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+303,5/3/2019,8,6:15,8:15,34.77939,-115.66393,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,45.5,7:53,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+304,5/3/2019,8,6:15,8:15,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,7:54,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+305,5/3/2019,8,6:15,8:15,34.77973,-115.66381,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,51.64,8:01,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+306,5/3/2019,8,6:15,8:15,34.77963,-115.66389,Columbiformes,Columbidae,Mourning Dove,,Sitting on Plant,Inactive,shrub,no photo,8:04,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+307,5/3/2019,8,6:15,8:15,34.77908,-115.66423,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:14,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+308,5/3/2019,8,6:15,8:15,34.77868,-115.66409,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+309,5/3/2019,8,6:15,8:15,34.77868,-115.66409,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+310,5/3/2019,9,8:20,10:20,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,no visual,no photo,8:27,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+311,5/3/2019,9,8:20,10:20,34.78019,-115.66294,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,8:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+312,5/3/2019,9,8:20,10:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,8:38,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+313,5/3/2019,9,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,8:42,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+314,5/3/2019,9,8:20,10:20,34.78057,-115.66298,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,cactus canopy,67,8:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+315,5/3/2019,9,8:20,10:20,34.78067,-115.66293,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,68.7,8:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+316,5/3/2019,9,8:20,10:20,34.78067,-115.66293,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,71.74,8:46,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+317,5/3/2019,9,8:20,10:20,34.78076,-115.66298,Passeriformes,Parulidae,Wilson's Warbler,,Foraging,Foraging,shrub,75 90.92,8:47,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+318,5/3/2019,9,8:20,10:20,34.78061,-115.6628,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,cactus canopy,79.89,8:55,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+319,5/3/2019,9,8:20,10:20,34.78045,-115.66286,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,8:55,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+320,5/3/2019,9,8:20,10:20,34.78104,-115.66248,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,cactus canopy,no photo,9:05,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+321,5/3/2019,9,8:20,10:20,34.78104,-115.66243,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,9:11,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+322,5/3/2019,9,8:20,10:20,34.78104,-115.66243,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,9:11,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+333,5/3/2019,9,8:20,10:20,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,9:22,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+334,5/3/2019,9,8:20,10:20,34.78173,-115.66247,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,air,no photo,9:24,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+335,5/3/2019,9,8:20,10:20,34.78175,-115.66249,Passeriformes,Mimidae,Northern Mockingbird,,Carrying Nest Materials,Terriotial or mating behavior,rock,93.95,9:28,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+336,5/3/2019,9,8:20,10:20,34.78173,-115.66251,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,9:36,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+337,5/3/2019,9,8:20,10:20,34.78209,-115.66203,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,shrub,no photo,9:50,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+338,5/3/2019,9,8:20,10:20,34.78166,-115.66257,Passeriformes,Troglodytidae,Rock Wren,,Carrying Nest Materials,Terriotial or mating behavior,rock,no photo,9:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+339,5/3/2019,9,8:20,10:20,34.78209,-115.66263,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,shrub,no photo,9:55,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+340,5/3/2019,9,8:20,10:20,34.78204,-115.66219,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,no photo,9:56,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+341,5/3/2019,9,8:20,10:20,34.78204,-115.66219,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,cactus canopy,no photo,9:56,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+342,5/3/2019,9,8:20,10:20,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,10:01,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+343,5/3/2019,9,8:20,10:20,34.78242,-115.66232,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Sitting on Plant,Inactive,cactus canopy,97.109,10:06,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+344,5/3/2019,9,8:20,10:20,34.78243,-115.66231,Passeriformes,Remezidae,Verdin,,Calling,Vocalization,shrub,110.133,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+345,5/3/2019,9,8:20,10:20,34.78243,-115.66231,Passeriformes,Remezidae,Verdin,,Calling,Vocalization,shrub,110.133,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+346,5/3/2019,9,8:20,10:20,34.78243,-115.66231,Passeriformes,Remezidae,Verdin,,Calling,Vocalization,shrub,110.133,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+347,5/3/2019,9,8:20,10:20,34.78243,-115.66231,Passeriformes,Remezidae,Verdin,,Calling,Vocalization,shrub,110.133,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+348,5/3/2019,10,16:30,18:30,34.78301,-115.66323,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Carrying Nest Materials,Terriotial or mating behavior,rock,1,16:33,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+349,5/3/2019,10,16:30,18:30,34.78275,-115.66317,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Calling,Vocalization,shrub,no photo,16:34,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+350,5/3/2019,10,16:30,18:30,34.78275,-115.66317,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Calling,Vocalization,shrub,no photo,16:34,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+351,5/3/2019,10,16:30,18:30,34.78269,-115.66326,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,16:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+352,5/3/2019,10,16:30,18:30,34.78269,-115.66326,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,16:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+353,5/3/2019,10,16:30,18:30,34.78294,-115.66331,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,no photo,16:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+354,5/3/2019,10,16:30,18:30,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,16:41,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+355,5/3/2019,10,16:30,18:30,34.78295,-115.6633,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Standing on Ground,Inactive,rock,20-Feb,16:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+356,5/3/2019,10,16:30,18:30,34.78295,-115.6633,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Standing on Ground,Inactive,rock,20-Feb,16:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+357,5/3/2019,10,16:30,18:30,34.78295,-115.6633,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Standing on Ground,Inactive,rock,20-Feb,16:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+358,5/3/2019,10,16:30,18:30,34.78284,-115.66321,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Copulating,Terriotial or mating behavior,shrub,21.29,16:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+359,5/3/2019,10,16:30,18:30,34.78284,-115.66321,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Copulating,Terriotial or mating behavior,shrub,21.29,16:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+360,5/3/2019,10,16:30,18:30,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,shrub,30.34,17:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+361,5/3/2019,10,16:30,18:30,34.78176,-115.6635,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Flying,Active movement,air,no photo,17:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+362,5/3/2019,10,16:30,18:30,34.78169,-115.66354,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,17:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+363,5/3/2019,10,16:30,18:30,34.78173,-115.66363,Passeriformes,Passerellidae,Black.throated Sparrow,,Copulating,Terriotial or mating behavior,shrub,no photo,17:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+364,5/3/2019,10,16:30,18:30,34.78173,-115.66363,Passeriformes,Passerellidae,Black.throated Sparrow,,Copulating,Terriotial or mating behavior,shrub,no photo,17:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+365,5/3/2019,10,16:30,18:30,34.78123,-115.6636,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,17:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+366,5/3/2019,10,16:30,18:30,34.78116,-115.6635,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,34.37,17:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+367,5/3/2019,10,16:30,18:30,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,17:30,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+368,5/3/2019,10,16:30,18:30,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,no visual,no photo,17:40,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+369,5/3/2019,10,16:30,18:30,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,17:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+370,5/3/2019,10,16:30,18:30,34.7797,-115.66377,Passeriformes,Parulidae,Wilson's Warbler,,Flying on Plant,Active movement,shrub,38.43,17:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+371,5/3/2019,10,16:30,18:30,34.77952,-115.66408,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,grass,no photo,17:49,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+372,5/3/2019,10,16:30,18:30,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,17:51,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+373,5/3/2019,10,16:30,18:30,34.77872,-115.66373,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Copulating,Terriotial or mating behavior,shrub,no photo,17:57,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+374,5/3/2019,10,16:30,18:30,34.77872,-115.66373,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Copulating,Terriotial or mating behavior,shrub,no photo,17:57,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+375,5/3/2019,10,16:30,18:30,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,18:15,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+376,5/4/2019,11,6:15,8:15,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:15,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+377,5/4/2019,11,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,6:18,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+378,5/4/2019,11,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,6:18,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+379,5/4/2019,11,6:15,8:15,34.78249,-115.66252,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,air,no photo,6:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+380,5/4/2019,11,6:15,8:15,34.78277,-115.66253,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,3-Jan,6:28,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+381,5/4/2019,11,6:15,8:15,34.78231,-115.66248,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,cactus canopy,no photo,6:35,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+382,5/4/2019,11,6:15,8:15,34.78232,-115.66257,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Foraging,Foraging,cactus canopy,no photo,6:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+383,5/4/2019,11,6:15,8:15,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,no visual,no photo,6:37,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+384,5/4/2019,11,6:15,8:15,34.78243,-115.66229,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,shrub,no photo,6:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+385,5/4/2019,11,6:15,8:15,34.78243,-115.66229,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,shrub,no photo,6:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+386,5/4/2019,11,6:15,8:15,34.78243,-115.66229,Passeriformes,Ptiliogonatidae,Phainopepla,,Sparring,Terriotial or mating behavior,shrub,no photo,6:42,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+387,5/4/2019,11,6:15,8:15,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,rock,no photo,6:50,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+388,5/4/2019,11,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:50,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+389,5/4/2019,11,6:15,8:15,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,6:51,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+390,5/4/2019,11,6:15,8:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,6:51,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+391,5/4/2019,11,6:15,8:15,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,6:55,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+392,5/4/2019,11,6:15,8:15,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,6:55,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+393,5/4/2019,11,6:15,8:15,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:55,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+394,5/4/2019,11,6:15,8:15,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,6:55,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+395,5/4/2019,11,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:59,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+396,5/4/2019,11,6:15,8:15,34.7817,-115.66251,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,rock,no photo,7:04,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+397,5/4/2019,11,6:15,8:15,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,7:05,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+398,5/4/2019,11,6:15,8:15,34.78173,-115.6625,Passeriformes,Cardinalidae,Black.headed Grosbeak,,Flying,Active movement,air,no photo,7:07,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+399,5/4/2019,11,6:15,8:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+400,5/4/2019,11,6:15,8:15,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,7:12,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+401,5/4/2019,11,6:15,8:15,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,7:13,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+402,5/4/2019,11,6:15,8:15,,,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,no visual,no photo,7:22,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+403,5/4/2019,11,6:15,8:15,,,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,no visual,no photo,7:22,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+404,5/4/2019,11,6:15,8:15,34.78126,-115.66259,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,cactus canopy,Apr-36,7:35,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+405,5/4/2019,11,6:15,8:15,34.78124,-115.66258,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,cactus canopy,37.39,7:36,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+406,5/4/2019,11,6:15,8:15,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,7:41,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+407,5/4/2019,11,6:15,8:15,34.78095,-115.66301,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:47,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+408,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+409,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+410,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+411,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+412,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+413,5/4/2019,11,6:15,8:15,34.78124,-115.66314,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+414,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:15,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+415,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:15,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+416,5/4/2019,12,8:15,10:15,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,8:15,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+417,5/4/2019,12,8:15,10:15,34.77866,-115.66405,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Foraging,Foraging,air,40.52,8:17,1,2,34.78303,.115.66309,34.77863,.115.66402,foraging at flags
+418,5/4/2019,12,8:15,10:15,34.77879,-115.66437,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,8:24,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+419,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:25,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+420,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+421,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+422,5/4/2019,12,8:15,10:15,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,8:45,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+423,5/4/2019,12,8:15,10:15,34.78098,-115.6637,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+424,5/4/2019,12,8:15,10:15,34.78098,-115.6637,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,8:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+425,5/4/2019,12,8:15,10:15,34.78136,-115.66362,Passeriformes,Tyrannidae,Say's Phoebe,,Singing,Vocalization,shrub,104.116,9:03,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+426,5/4/2019,12,8:15,10:15,34.78143,-115.66335,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,9:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+427,5/4/2019,12,8:15,10:15,,,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,no visual,no photo,9:07,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+428,5/4/2019,12,8:15,10:15,34.78145,-115.66335,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Flying,Active movement,rock,no photo,9:10,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+429,5/4/2019,12,8:15,10:15,34.78146,-115.66335,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,air,no photo,9:10,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+430,5/4/2019,12,8:15,10:15,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,9:12,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+431,5/4/2019,12,8:15,10:15,34.78157,-115.66356,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,9:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+432,5/4/2019,12,8:15,10:15,34.78157,-115.66356,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,9:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+433,5/4/2019,12,8:15,10:15,34.78135,-115.6636,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,9:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+434,5/4/2019,12,8:15,10:15,34.78135,-115.6636,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,9:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+435,5/4/2019,12,8:15,10:15,34.78135,-115.6636,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,9:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+436,5/4/2019,12,8:15,10:15,34.78193,-115.66339,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,air,no photo,9:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+437,5/4/2019,12,8:15,10:15,34.78198,-115.66322,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,no photo,9:46,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+438,5/4/2019,12,8:15,10:15,34.78198,-115.66322,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,no photo,9:46,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+439,5/4/2019,12,8:15,10:15,34.78245,-115.66328,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,gravel,no photo,9:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+440,5/4/2019,12,8:15,10:15,34.78245,-115.66328,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,gravel,no photo,9:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+441,5/4/2019,12,8:15,10:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,rock,no photo,9:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+442,5/4/2019,12,8:15,10:15,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,9:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+443,5/4/2019,12,8:15,10:15,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,air,no photo,10:00,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+444,5/4/2019,12,8:15,10:15,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Sparring,Terriotial or mating behavior,air,no photo,10:00,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+445,5/4/2019,12,8:15,10:15,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,10:06,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+446,5/5/2019,13,16:05,18:05,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,16:08,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+447,5/5/2019,13,16:05,18:05,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,16:13,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+448,5/5/2019,13,16:05,18:05,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,16:17,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+449,5/5/2019,13,16:05,18:05,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,no visual,no photo,16:17,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+450,5/5/2019,13,16:05,18:05,34.78167,-115.6627,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,no photo,16:21,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+451,5/5/2019,13,16:05,18:05,34.78171,-115.6625,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,air,no photo,16:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+452,5/5/2019,13,16:05,18:05,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,16:30,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+453,5/5/2019,13,16:05,18:05,34.7812,-115.66254,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Sitting on Plant,Inactive,cactus canopy,7,16:31,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+454,5/5/2019,13,16:05,18:05,34.7812,-115.66258,Passeriformes,Mimidae,Northern Mockingbird,,Sitting on Plant,Inactive,cactus canopy,6-Jan,16:31,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+455,5/5/2019,13,16:05,18:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,16:37,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+456,5/5/2019,13,16:05,18:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,16:43,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+457,5/5/2019,13,16:05,18:05,,,Passeriformes,Troglodytidae,Cactus Wren,,Flying,Active movement,no visual,no photo,16:53,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+458,5/5/2019,13,16:05,18:05,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Sparring,Terriotial or mating behavior,no visual,no photo,17:00,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+459,5/5/2019,13,16:05,18:05,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Sparring,Terriotial or mating behavior,no visual,no photo,17:00,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+460,5/5/2019,13,16:05,18:05,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,17:05,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+461,5/5/2019,13,16:05,18:05,34.78091,-115.66267,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,17:07,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+462,5/5/2019,13,16:05,18:05,34.77967,-115.66264,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,air,no photo,17:27,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+463,5/5/2019,13,16:05,18:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,17:28,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+464,5/5/2019,13,16:05,18:05,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Flying,Active movement,air,no photo,17:39,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+465,5/5/2019,13,16:05,18:05,34.77846,-115.66301,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,shrub,no photo,17:41,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+466,5/5/2019,13,16:05,18:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,17:54,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+467,5/5/2019,14,18:05,20:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,18:05,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+468,5/5/2019,14,18:05,20:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,18:14,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+469,5/5/2019,14,18:05,20:05,34.7801,-115.6646,Passeriformes,Passerellidae,Black.throated Sparrow,,Foraging,Foraging,shrub,33.34,18:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+470,5/5/2019,14,18:05,20:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,18:26,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+471,5/5/2019,14,18:05,20:05,34.78146,-115.66337,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Standing on Ground,Inactive,rock,no photo,18:30,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+472,5/5/2019,14,18:05,20:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,18:32,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+473,5/5/2019,14,18:05,20:05,34.78148,-115.66332,Passeriformes,Troglodytidae,Rock Wren,,Standing on Ground,Inactive,rock,no photo,18:36,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+474,5/5/2019,14,18:05,20:05,34.78201,-115.6636,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,19:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+475,5/5/2019,14,18:05,20:05,34.78209,-115.6634,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,35.37,19:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+476,5/5/2019,14,18:05,20:05,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,rock,no photo,19:06,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+477,5/5/2019,14,18:05,20:05,34.78307,-115.66257,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,shrub,38.42,19:06,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+478,5/5/2019,14,18:05,20:05,34.78168,-115.6637,Passeriformes,Parulidae,Wilson's Warbler,,Flying Between Plants,Active movement,shrub,43.74,19:23,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+479,5/5/2019,14,18:05,20:05,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,19:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+480,5/5/2019,14,18:05,20:05,34.78295,-115.66332,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,19:39,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+481,5/5/2019,14,18:05,20:05,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,19:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+482,5/5/2019,14,18:05,20:05,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,air,no photo,19:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+483,5/5/2019,14,18:05,20:05,,,Passeriformes,Tyrannidae,Western Wood.Pewee,insectivore,Singing,Vocalization,no visual,no photo,19:48,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+484,5/5/2019,14,18:05,20:05,,,Strigiformes,Strigidae,Great Horned Owl,,Singing,Vocalization,no visual,no photo,19:50,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+485,5/6/2019,15,6:20,8:20,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,6:25,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+486,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:27,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+487,5/6/2019,15,6:20,8:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,6:29,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+488,5/6/2019,15,6:20,8:20,34.78249,-115.66287,Passeriformes,Remezidae,Verdin,,Flying on Plant,Active movement,cactus canopy,no photo,6:32,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+489,5/6/2019,15,6:20,8:20,34.78265,-115.66286,Passeriformes,Remezidae,Verdin,,Flying,Active movement,air,no photo,6:32,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+490,5/6/2019,15,6:20,8:20,34.78264,-115.66267,Passeriformes,Remezidae,Verdin,,Flying,Active movement,cactus canopy,92.1,6:33,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+491,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:35,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+492,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:39,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+493,5/6/2019,15,6:20,8:20,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,6:44,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+494,5/6/2019,15,6:20,8:20,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Standing on Ground,Inactive,rock,no photo,6:44,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+495,5/6/2019,15,6:20,8:20,34.78231,-115.66293,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,shrub,no photo,6:44,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+496,5/6/2019,15,6:20,8:20,34.78221,-115.66258,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,air,no photo,6:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+497,5/6/2019,15,6:20,8:20,34.78229,-115.66264,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Foraging,Foraging,shrub,no photo,6:46,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+498,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,6:51,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+499,5/6/2019,15,6:20,8:20,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,6:51,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+500,5/6/2019,15,6:20,8:20,34.78205,-115.66231,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,6:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+501,5/6/2019,15,6:20,8:20,34.78209,-115.66257,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,6:52,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+502,5/6/2019,15,6:20,8:20,34.78232,-115.66266,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,101.108,6:54,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+503,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,6:56,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+504,5/6/2019,15,6:20,8:20,34.78134,-115.66248,Passeriformes,Unknown,Unknown Passerine,Unknown,Flying on Plant,Active movement,shrub,no photo,7:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+505,5/6/2019,15,6:20,8:20,34.78163,-115.66277,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,air,no photo,7:03,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+506,5/6/2019,15,6:20,8:20,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,7:06,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+507,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:06,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+508,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,7:06,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+509,5/6/2019,15,6:20,8:20,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,7:12,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+510,5/6/2019,15,6:20,8:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,7:14,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+511,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,7:14,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+512,5/6/2019,15,6:20,8:20,34.78156,-115.66266,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,109.115,7:15,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+513,5/6/2019,15,6:20,8:20,34.78178,-115.66233,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,cactus canopy,no photo,7:17,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+514,5/6/2019,15,6:20,8:20,34.78147,-115.66258,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,grass,no photo,7:21,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+515,5/6/2019,15,6:20,8:20,34.78144,-115.66249,Galliformes,Odontiphoridae,Gambel's Quail,,Standing on Ground,Inactive,grass,no photo,7:21,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+516,5/6/2019,15,6:20,8:20,34.78134,-115.66245,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,grass,no photo,7:21,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+517,5/6/2019,15,6:20,8:20,34.78108,-115.6628,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Flying on Plant,Active movement,shrub,116.126,7:30,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+518,5/6/2019,15,6:20,8:20,,,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,no visual,no photo,7:30,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+519,5/6/2019,15,6:20,8:20,34.78108,-115.66304,Passeriformes,Parulidae,Wilson's Warbler,,Foraging,Foraging,shrub,127.196,7:31,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+520,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+521,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+522,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+523,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+524,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+525,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+526,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+527,5/6/2019,15,6:20,8:20,34.78083,-115.66306,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,7:37,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+528,5/6/2019,15,6:20,8:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,no photo,7:39,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+529,5/6/2019,15,6:20,8:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,7:39,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+530,5/6/2019,15,6:20,8:20,34.78065,-115.6631,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,7:44,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+531,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,7:46,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+532,5/6/2019,15,6:20,8:20,34.78015,-115.66303,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,197.199,7:56,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+533,5/6/2019,15,6:20,8:20,34.78,-115.66305,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Foraging,Foraging,annuals,200.238,7:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+534,5/6/2019,15,6:20,8:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:05,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+535,5/6/2019,15,6:20,8:20,,,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,rock,no photo,8:07,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+536,5/6/2019,16,8:20,10:20,34.77814,-115.66428,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,no photo,8:22,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+537,5/6/2019,16,8:20,10:20,34.77891,-115.66403,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,shrub,239.248,8:25,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+538,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+539,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,8:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+540,5/6/2019,16,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,8:42,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+541,5/6/2019,16,8:20,10:20,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,8:42,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+542,5/6/2019,16,8:20,10:20,34.78022,-115.66355,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,no photo,8:42,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+543,5/6/2019,16,8:20,10:20,34.78031,-115.66374,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,8:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+544,5/6/2019,16,8:20,10:20,34.78031,-115.66374,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,8:47,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+545,5/6/2019,16,8:20,10:20,34.78077,-115.66393,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,8:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+546,5/6/2019,16,8:20,10:20,34.7808,-115.6641,Passeriformes,Tyrannidae,Gray Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,no photo,8:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+547,5/6/2019,16,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,9:02,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+548,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:02,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+549,5/6/2019,16,8:20,10:20,34.78127,-115.66391,Passeriformes,Tyrannidae,Pacific.slope Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,"271.316, 32.382",9:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+550,5/6/2019,16,8:20,10:20,34.7813,-115.66395,Passeriformes,Tyrannidae,Gray Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,317.322,9:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+551,5/6/2019,16,8:20,10:20,34.78129,-115.66397,Passeriformes,Remezidae,Verdin,,Singing,Vocalization,shrub,383.391,9:17,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+552,5/6/2019,16,8:20,10:20,34.78077,-115.66394,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,shrub,392.401,9:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+553,5/6/2019,16,8:20,10:20,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,9:20,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+554,5/6/2019,16,8:20,10:20,34.78081,-115.66359,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,9:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+555,5/6/2019,16,8:20,10:20,34.78081,-115.66359,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,9:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+556,5/6/2019,16,8:20,10:20,34.78086,-115.66392,Apodiformes,Apodidae,White.throated Swift,,Flying,Active movement,air,no photo,9:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+557,5/6/2019,16,8:20,10:20,34.78086,-115.66392,Apodiformes,Apodidae,White.throated Swift,,Flying,Active movement,air,no photo,9:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+558,5/6/2019,16,8:20,10:20,34.78074,-115.66311,Passeriformes,Tyrannidae,Say's Phoebe,,Singing,Vocalization,cactus canopy,no photo,9:27,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+559,5/6/2019,16,8:20,10:20,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,9:32,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+560,5/6/2019,16,8:20,10:20,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,9:35,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+561,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+562,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+563,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:40,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+564,5/6/2019,16,8:20,10:20,,,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,407.422,9:42,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+565,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,9:45,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+566,5/6/2019,16,8:20,10:20,34.78178,-115.66355,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,shrub,423.424,9:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+567,5/6/2019,16,8:20,10:20,34.78192,-115.66366,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,425,9:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+568,5/6/2019,16,8:20,10:20,34.78194,-115.66371,Passeriformes,Troglodytidae,Rock Wren,,Flying,Active movement,air,no photo,9:53,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+569,5/6/2019,16,8:20,10:20,34.78198,-115.6636,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Flying,Active movement,air,no photo,9:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+570,5/6/2019,16,8:20,10:20,34.78231,-115.66328,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,gravel,no photo,10:00,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+571,5/6/2019,16,8:20,10:20,34.78231,-115.66328,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,gravel,no photo,10:00,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+572,5/6/2019,16,8:20,10:20,,,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,9:58,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+573,5/6/2019,16,8:20,10:20,34.7826,-115.66294,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,456,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+574,5/6/2019,16,8:20,10:20,34.7826,-115.66294,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,456,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+575,5/6/2019,16,8:20,10:20,34.7826,-115.66294,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,456,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+576,5/6/2019,16,8:20,10:20,34.7826,-115.66294,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,456,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+577,5/6/2019,16,8:20,10:20,34.7826,-115.66294,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,456,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+578,5/6/2019,16,8:20,10:20,34.78275,-115.66302,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,wash,450.455,10:05,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+579,5/6/2019,16,8:20,10:20,34.78275,-115.66302,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,wash,450.455,10:05,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+580,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+581,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+582,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+583,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+584,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+585,5/6/2019,16,8:20,10:20,34.78294,-115.6629,Passeriformes,Remezidae,Verdin,,Flying Between Plants,Active movement,shrub,no photo,10:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+586,5/6/2019,16,8:20,10:20,34.78305,-115.6628,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,air,no photo,10:15,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+587,5/6/2019,16,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,10:16,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+588,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,10:17,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+589,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:17,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+590,5/6/2019,16,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,10:17,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+591,5/6/2019,16,8:20,10:20,,,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,no visual,no photo,10:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+592,5/6/2019,17,16:10,18:10,34.78275,-115.66245,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,16:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+593,5/6/2019,17,16:10,18:10,34.78273,-115.66245,Passeriformes,Parulidae,Wilson's Warbler,,Foraging,Foraging,cactus canopy,497.562,16:26,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+593.5,5/6/2019,17,16:10,18:10,34.78264,-115.66245,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,rock,no photo,16:27,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+594,5/6/2019,17,16:10,18:10,34.78263,-115.66246,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,air,no photo,16:30,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+595,5/6/2019,17,16:10,18:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,16:43,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+596,5/6/2019,17,16:10,18:10,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,air,no photo,16:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+597,5/6/2019,17,16:10,18:10,,,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,16:46,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+598,5/6/2019,17,16:10,18:10,34.78172,-115.662,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,16:48,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+599,5/6/2019,17,16:10,18:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,cactus canopy,no photo,16:50,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+600,5/6/2019,17,16:10,18:10,34.78172,-115.66199,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,16:43,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+601,5/6/2019,17,16:10,18:10,34.78193,-115.66228,Passeriformes,Mimidae,Northern Mockingbird,,Sitting on Plant,Inactive,cactus canopy,no photo,16:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+602,5/6/2019,17,16:10,18:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,16:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+603,5/6/2019,17,16:10,18:10,34.78207,-115.66267,Apodiformes,Trochilidae,Hummingbird,nectarivore,Foraging,Foraging,shrub,no photo,17:00,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+604,5/6/2019,17,16:10,18:10,34.78188,-115.66256,Passeriformes,Troglodytidae,Rock Wren,,Walking,Active movement,grass,no photo,17:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+605,5/6/2019,17,16:10,18:10,34.78155,-115.66219,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,air,no photo,17:04,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+606,5/6/2019,17,16:10,18:10,34.78127,-115.66238,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,cactus canopy,566.587,17:08,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+607,5/6/2019,17,16:10,18:10,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,17:12,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+608,5/6/2019,17,16:10,18:10,34.78115,-115.66299,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,17:17,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+609,5/6/2019,17,16:10,18:10,34.78083,-115.6627,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,17:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+610,5/6/2019,17,16:10,18:10,34.78083,-115.6627,Passeriformes,Hirundinidae,Violet.green Swallow,,Flying,Active movement,air,no photo,17:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+611,5/6/2019,17,16:10,18:10,34.78083,-115.6627,Apodiformes,Apodidae,White.throated Swift,,Sparring,Terriotial or mating behavior,air,no photo,17:25,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+612,5/6/2019,17,16:10,18:10,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,17:28,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+613,5/6/2019,17,16:10,18:10,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,17:29,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+614,5/6/2019,17,16:10,18:10,34.77982,-115.66308,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,cactus canopy,588.591,17:47,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+615,5/6/2019,17,16:10,18:10,34.77882,-115.66316,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,shrub,no photo,17:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+616,5/6/2019,17,16:10,18:10,34.77877,-115.66325,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,no photo,17:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+617,5/7/2019,18,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,8:21,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+618,5/7/2019,18,8:20,10:20,34.78306,-115.66309,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,8:25,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+619,5/7/2019,18,8:20,10:20,34.78265,-115.66323,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,air,no photo,8:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+620,5/7/2019,18,8:20,10:20,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,8:39,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+621,5/7/2019,18,8:20,10:20,34.78252,-115.66285,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,8:39,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+622,5/7/2019,18,8:20,10:20,,,Columbiformes,Columbidae,Mourning Dove,,Calling,Vocalization,no visual,no photo,8:40,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+623,5/7/2019,18,8:20,10:20,34.78241,-115.66338,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,no photo,8:45,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+624,5/7/2019,18,8:20,10:20,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,8:46,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+625,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,8:47,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+626,5/7/2019,18,8:20,10:20,,,Passeriformes,Parulidae,Townsend's Warbler,,Foraging,Foraging,shrub,Jan-97,8:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+627,5/7/2019,18,8:20,10:20,34.78206,-115.6634,Passeriformes,Vireonidae,Warbling Vireo,,Foraging,Foraging,shrub,Jan-97,8:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+628,5/7/2019,18,8:20,10:20,34.78206,-115.6634,Passeriformes,Parulidae,Townsend's Warbler,,Foraging,Foraging,shrub,Jan-97,8:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+629,5/7/2019,18,8:20,10:20,34.78169,-115.66349,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,8:56,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+630,5/7/2019,18,8:20,10:20,34.78169,-115.66349,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,8:56,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+631,5/7/2019,18,8:20,10:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,8:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+632,5/7/2019,18,8:20,10:20,34.78169,-115.66349,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,9:02,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+633,5/7/2019,18,8:20,10:20,34.78154,-115.66355,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Foraging,Foraging,shrub,96.135,9:05,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+634,5/7/2019,18,8:20,10:20,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,9:14,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+635,5/7/2019,18,8:20,10:20,34.78121,-115.66349,Passeriformes,Parulidae,Townsend's Warbler,,Foraging,Foraging,shrub,"136.188, 204.228",9:21,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+636,5/7/2019,18,8:20,10:20,34.78191,-115.66432,Passeriformes,Tyrannidae,Pacific.slope Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,189.203,9:21,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+637,5/7/2019,18,8:20,10:20,34.78099,-115.66432,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,9:28,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+638,5/7/2019,18,8:20,10:20,34.78099,-115.66432,Columbiformes,Columbidae,Mourning Dove,,Flying,Active movement,air,no photo,9:28,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+639,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+640,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+641,5/7/2019,18,8:20,10:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,9:35,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+642,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:52,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+643,5/7/2019,18,8:20,10:20,,,Passeriformes,Tyrannidae,Gray Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,326.328,9:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+644,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+645,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+646,5/7/2019,18,8:20,10:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,9:57,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+647,5/7/2019,18,8:20,10:20,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,10:05,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+648,5/7/2019,19,10:20,12:20,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,10:25,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+649,5/7/2019,19,10:20,12:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:36,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+650,5/7/2019,19,10:20,12:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:36,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+651,5/7/2019,19,10:20,12:20,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,10:46,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+652,5/7/2019,19,10:20,12:20,34.78035,-115.66224,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,cactus canopy,no photo,10:46,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+653,5/7/2019,19,10:20,12:20,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,10:50,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+654,5/7/2019,19,10:20,12:20,34.78054,-115.66223,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,cactus canopy,335.354,10:54,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+655,5/7/2019,19,10:20,12:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,10:55,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+656,5/7/2019,19,10:20,12:20,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,11:00,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+657,5/7/2019,19,10:20,12:20,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,11:01,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+658,5/7/2019,19,10:20,12:20,,,Passeriformes,Troglodytidae,Rock Wren,,Singing,Vocalization,rock,no photo,11:01,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+659,5/7/2019,19,10:20,12:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,air,no photo,11:01,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+660,5/7/2019,19,10:20,12:20,34.78109,-115.6627,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,355.356,11:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+661,5/7/2019,19,10:20,12:20,34.78109,-115.6627,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,355.356,11:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+662,5/7/2019,19,10:20,12:20,34.78109,-115.6627,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,355.356,11:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+663,5/7/2019,19,10:20,12:20,34.78162,-115.66263,Passeriformes,Troglodytidae,Rock Wren,,Walking,Active movement,grass,no photo,11:16,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+664,5/7/2019,19,10:20,12:20,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,11:19,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+665,5/7/2019,19,10:20,12:20,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,11:24,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+666,5/7/2019,19,10:20,12:20,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,11:25,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+667,5/7/2019,19,10:20,12:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:26,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+668,5/7/2019,19,10:20,12:20,,,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,no visual,no photo,11:33,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+667.5,5/7/2019,19,10:20,12:20,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,11:35,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+668.5,5/7/2019,19,10:20,12:20,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,12:00,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+669,5/7/2019,19,10:20,12:20,34.78279,-115.66274,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,cactus canopy,no photo,12:01,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+670,5/7/2019,19,10:20,12:20,34.78267,-115.66254,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,12:02,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+671,5/7/2019,19,10:20,12:20,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,no visual,no photo,12:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+672,5/7/2019,19,10:20,12:20,34.78288,-115.66261,Passeriformes,Parulidae,Wilson's Warbler,,Flying on Plant,Active movement,shrub,no photo,12:19,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+673,5/7/2019,20,12:20,14:20,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,12:22,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+674,5/7/2019,20,12:20,14:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,12:22,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+675,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:24,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+676,5/7/2019,20,12:20,14:20,34.78285,-115.66302,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,357.36,12:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+677,5/7/2019,20,12:20,14:20,34.78285,-115.66302,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,357.36,12:26,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+678,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:37,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+679,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,12:39,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+680,5/7/2019,20,12:20,14:20,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,12:50,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+681,5/7/2019,20,12:20,14:20,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,no visual,no photo,12:50,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+682,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+683,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+684,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+685,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+686,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+687,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+688,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+689,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+690,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+691,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Copulating,Terriotial or mating behavior,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+692,5/7/2019,20,12:20,14:20,34.78236,-115.66376,Apodiformes,Apodidae,White.throated Swift,,Copulating,Terriotial or mating behavior,air,no photo,12:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+693,5/7/2019,20,12:20,14:20,34.78247,-115.66373,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,cactus canopy,no photo,12:56,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+694,5/7/2019,20,12:20,14:20,34.78247,-115.66373,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,cactus canopy,no photo,12:56,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+695,5/7/2019,20,12:20,14:20,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,12:57,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+696,5/7/2019,20,12:20,14:20,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,12:59,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+697,5/7/2019,20,12:20,14:20,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,13:01,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+698,5/7/2019,20,12:20,14:20,34.78181,-115.66359,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,gravel,no photo,13:02,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+699,5/7/2019,20,12:20,14:20,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,13:09,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+700,5/7/2019,20,12:20,14:20,34.78159,-115.66354,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying,Active movement,shrub,no photo,13:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+701,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:21,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+702,5/7/2019,20,12:20,14:20,34.78125,-115.66379,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+703,5/7/2019,20,12:20,14:20,34.78125,-115.66379,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+704,5/7/2019,20,12:20,14:20,34.78125,-115.66379,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+705,5/7/2019,20,12:20,14:20,34.78125,-115.66379,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+706,5/7/2019,20,12:20,14:20,34.78125,-115.66379,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+707,5/7/2019,20,12:20,14:20,34.78138,-115.6636,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,13:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+708,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:39,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+709,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:39,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+710,5/7/2019,20,12:20,14:20,34.77924,-115.66386,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Flying,Active movement,air,no photo,13:54,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+711,5/7/2019,20,12:20,14:20,34.77913,-115.66386,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Sitting on Plant,Inactive,shrub,361.363,13:54,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+712,5/7/2019,20,12:20,14:20,,,Galliformes,Odontiphoridae,Gambel's Quail,,Singing,Vocalization,no visual,no photo,13:59,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+713,5/7/2019,20,12:20,14:20,34.77889,-115.66435,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,no photo,13:59,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+714,5/7/2019,20,12:20,14:20,34.77889,-115.66435,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,no photo,13:59,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+715,5/7/2019,20,12:20,14:20,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:05,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+716,5/7/2019,20,12:20,14:20,34.78259,-115.66274,Passeriformes,Ptiliogonatidae,Phainopepla,,Flying,Active movement,air,no photo,14:17,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+717,5/8/2019,21,9:55,11:55,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Calling,Vocalization,no visual,no photo,9:55,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+718,5/8/2019,21,9:55,11:55,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,9:56,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+719,5/8/2019,21,9:55,11:55,34.78263,-115.66255,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Singing,Vocalization,shrub,no photo,10:00,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+720,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:03,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+721,5/8/2019,21,9:55,11:55,34.78281,-115.66261,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,cactus canopy,no photo,10:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+722,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+723,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,10:11,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+724,5/8/2019,21,9:55,11:55,34.78231,-115.6624,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,43474,10:19,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+725,5/8/2019,21,9:55,11:55,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,10:23,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+726,5/8/2019,21,9:55,11:55,34.78172,-115.66265,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,Oct-63,10:23,1,1,34.78299,.115.66235,34.77833,.115.66293,fledglings
+727,5/8/2019,21,9:55,11:55,34.78172,-115.66265,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,Oct-63,10:23,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+728,5/8/2019,21,9:55,11:55,34.78172,-115.66265,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,Oct-63,10:23,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+729,5/8/2019,21,9:55,11:55,34.78172,-115.66265,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,Oct-63,10:23,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+730,5/8/2019,21,9:55,11:55,34.78172,-115.66265,Passeriformes,Troglodytidae,Rock Wren,,Distraction Display,Terriotial or mating behavior,rock,21.63,10:23,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+731,5/8/2019,21,9:55,11:55,34.78167,-115.66257,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Singing,Vocalization,air,no photo,10:45,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+732,5/8/2019,21,9:55,11:55,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,10:45,2,1,34.78299,.115.66235,34.77833,.115.66293,display
+733,5/8/2019,21,9:55,11:55,34.78117,-115.66262,Passeriformes,Mimidae,Northern Mockingbird,,Sitting on Plant,Inactive,cactus canopy,64.67,10:51,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+734,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,10:50,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+735,5/8/2019,21,9:55,11:55,34.78127,-115.66266,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,10:57,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+736,5/8/2019,21,9:55,11:55,34.78118,-115.66254,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,cactus canopy,68.86,11:01,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+737,5/8/2019,21,9:55,11:55,34.78122,-115.66255,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,cactus canopy,no photo,11:01,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+738,5/8/2019,21,9:55,11:55,34.78129,-115.6627,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Foraging,Foraging,shrub,92.95,11:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+739,5/8/2019,21,9:55,11:55,34.78129,-115.6627,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Foraging,Foraging,shrub,92.95,11:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+740,5/8/2019,21,9:55,11:55,34.78129,-115.6627,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Foraging,Foraging,shrub,92.95,11:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+741,5/8/2019,21,9:55,11:55,34.78129,-115.6627,Passeriformes,Parulidae,MacGillivray's Warbler,,Foraging,Foraging,shrub,87.124,11:09,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+742,5/8/2019,21,9:55,11:55,34.78016,-115.66306,Passeriformes,Mimidae,Northern Mockingbird,,Foraging,Foraging,grass,no photo,11:31,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+743,5/8/2019,21,9:55,11:55,34.78002,-115.66926,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Foraging,Foraging,air,no photo,11:36,1,1,34.78299,.115.66235,34.77833,.115.66293,flag foraging
+744,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:37,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+745,5/8/2019,21,9:55,11:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:37,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+746,5/8/2019,21,9:55,11:55,34.7792,-115.6631,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,11:44,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+747,5/8/2019,21,9:55,11:55,34.7792,-115.6631,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,air,no photo,11:44,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+748,5/8/2019,22,11:55,1:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,11:56,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+749,5/8/2019,22,11:55,1:55,34.77831,-115.66405,Passeriformes,Icteridae,Hooded Oriole,,Flying,Active movement,air,no photo,12:03,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+750,5/8/2019,22,11:55,1:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+751,5/8/2019,22,11:55,1:55,34.77924,-115.66422,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,shrub,no photo,12:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+752,5/8/2019,22,11:55,1:55,34.77941,-115.66437,Passeriformes,Cardinalidae,Black.headed Grosbeak,,Singing,Vocalization,shrub,no photo,12:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+753,5/8/2019,22,11:55,1:55,34.77994,-115.66423,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,125.126,12:16,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+754,5/8/2019,22,11:55,1:55,34.77994,-115.66423,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,125.126,12:16,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+755,5/8/2019,22,11:55,1:55,34.77971,-115.6637,Passeriformes,Remezidae,Verdin,,Preening,Cleaning,shrub,127,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+756,5/8/2019,22,11:55,1:55,34.77975,-115.66363,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying Between Plants,Active movement,shrub,no photo,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+757,5/8/2019,22,11:55,1:55,34.77975,-115.66363,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying Between Plants,Active movement,shrub,no photo,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+758,5/8/2019,22,11:55,1:55,34.77975,-115.66363,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying Between Plants,Active movement,shrub,no photo,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+759,5/8/2019,22,11:55,1:55,34.77975,-115.66363,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying Between Plants,Active movement,shrub,no photo,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+760,5/8/2019,22,11:55,1:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:18,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+761,5/8/2019,22,11:55,1:55,34.78041,-115.66382,Apodiformes,Trochilidae,Anna's Hummingbird,nectarivore,Foraging,Foraging,shrub,128.129,12:29,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+762,5/8/2019,22,11:55,1:55,34.78064,-115.66328,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,130.14,12:30,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+763,5/8/2019,22,11:55,1:55,34.7812,-115.66362,Passeriformes,Passerellidae,Black.throated Sparrow,,Preening,Cleaning,shrub,141.144,12:40,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+764,5/8/2019,22,11:55,1:55,34.7812,-115.66362,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,12:40,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+765,5/8/2019,22,11:55,1:55,34.7812,-115.66362,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying on Plant,Active movement,shrub,no photo,12:40,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+766,5/8/2019,22,11:55,1:55,34.78118,-115.66377,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,cactus canopy,no photo,12:40,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+767,5/8/2019,22,11:55,1:55,34.78116,-115.66351,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,145.147,12:41,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+768,5/8/2019,22,11:55,1:55,34.78116,-115.66351,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,shrub,145.147,12:41,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+769,5/8/2019,22,11:55,1:55,34.78196,-115.66355,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Flying,Active movement,air,150.159,13:05,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+770,5/8/2019,22,11:55,1:55,34.78263,-115.66312,Galliformes,Odontiphoridae,Gambel's Quail,,Walking,Active movement,wash,no photo,13:27,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+771,5/8/2019,22,11:55,1:55,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,13:42,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+772,5/8/2019,22,11:55,1:55,34.78197,-115.66369,Piciformes,Picidae,Nuttall's/Ladderback Woodpecker Hybrid,,Calling,Vocalization,shrub,167.183,13:53,2,2,34.78303,.115.66309,34.77863,.115.66402,pik call
+773,5/8/2019,22,11:55,1:55,34.78234,-115.66367,Passeriformes,Troglodytidae,Rock Wren,,Foraging,Foraging,gravel,184.198,13:54,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+774,5/9/2019,23,12:00,14:00,,,Passeriformes,Ptiliogonatidae,Phainopepla,,Singing,Vocalization,no visual,no photo,12:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+775,5/9/2019,23,12:00,14:00,34.78289,-115.66273,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Flying on Plant,Active movement,cactus canopy,no photo,12:11,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+776,5/9/2019,23,12:00,14:00,34.78288,-115.66272,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Foraging,Foraging,cactus canopy,no photo,12:14,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+775.2,5/9/2019,23,12:00,14:00,,,Passeriformes,Troglodytidae,Rock Wren,,Calling,Vocalization,rock,no photo,12:15,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+776.2,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:20,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+777,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:21,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+778,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:21,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+779,5/9/2019,23,12:00,14:00,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,12:23,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+780,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:35,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+781,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:41,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+782,5/9/2019,23,12:00,14:00,,,Accipitriformes,Accipitridae,Red.tailed Hawk,,Calling,Vocalization,no visual,no photo,12:49,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+783,5/9/2019,23,12:00,14:00,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,12:55,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+784,5/9/2019,23,12:00,14:00,34.78171,-115.66255,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,air,no photo,13:03,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+785,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+786,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+787,5/9/2019,23,12:00,14:00,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,13:29,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+788,5/9/2019,23,12:00,14:00,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,13:45,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+789,5/9/2019,23,12:00,14:00,,,Passeriformes,Corvidae,Common Raven,,Calling,Vocalization,no visual,no photo,13:45,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+790,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,13:45,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+791,5/9/2019,23,12:00,14:00,34.77857,-115.6624,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,shrub,no photo,13:47,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+792,5/9/2019,23,12:00,14:00,34.77962,-115.66238,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,shrub,no photo,13:47,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+793,5/9/2019,23,12:00,14:00,,,Columbiformes,Columbidae,Mourning Dove,,Sparring,Terriotial or mating behavior,no visual,no photo,13:53,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+794,5/9/2019,23,12:00,14:00,,,Columbiformes,Columbidae,Mourning Dove,,Sparring,Terriotial or mating behavior,no visual,no photo,13:53,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+795,5/9/2019,24,14:00,16:00,34.77894,-115.66354,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,3-Jan,14:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+796,5/9/2019,24,14:00,16:00,34.77894,-115.66354,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,3-Jan,14:05,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+797,5/9/2019,24,14:00,16:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:10,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+798,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,no visual,no photo,14:15,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+799,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,14:23,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+800,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,14:23,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+801,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,14:23,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+802,5/9/2019,24,14:00,16:00,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,14:23,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+803,5/9/2019,24,14:00,16:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+804,5/9/2019,24,14:00,16:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+805,5/9/2019,24,14:00,16:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,14:25,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+806,5/9/2019,24,14:00,16:00,34.78133,-115.66357,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,6-Apr,14:30,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+807,5/9/2019,24,14:00,16:00,34.78134,-115.66358,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,12-Jul,14:32,1,2,34.78303,.115.66309,34.77863,.115.66402,Rattlesnake in way coordinates about 5 meters east of actual location
+808,5/9/2019,24,14:00,16:00,34.78134,-115.66358,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,shrub,12-Jul,14:32,1,2,34.78303,.115.66309,34.77863,.115.66402,Rattlesnake in way coordinates about 5 meters east of actual location
+809,5/9/2019,24,14:00,16:00,34.78128,-115.66351,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,14:34,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+810,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Preening,Cleaning,shrub,28.31,14:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+811,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Preening,Cleaning,shrub,28.31,14:55,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+812,5/9/2019,24,14:00,16:00,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,15:05,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+813,5/9/2019,24,14:00,16:00,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,no visual,no photo,15:09,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+814,5/9/2019,24,14:00,16:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:13,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+815,5/9/2019,24,14:00,16:00,,,Passeriformes,Fringillidae,House Finch,,Singing,Vocalization,no visual,no photo,15:19,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+816,5/9/2019,24,14:00,16:00,34.78193,-115.66363,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Sitting on Plant,Inactive,shrub,32.102,15:19,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+817,5/9/2019,24,14:00,16:00,,,Passeriformes,Polioptilidae,Black.tailed Gnatcatcher,,Calling,Vocalization,no visual,no photo,15:42,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+818,5/9/2019,24,14:00,16:00,,,Passeriformes,Cardinalidae,Western Tanager,,Singing,Vocalization,no visual,no photo,15:55,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+819,5/9/2019,24,14:00,16:00,,,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,15:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+820,5/9/2019,24,14:00,16:00,,,Apodiformes,Apodidae,White.throated Swift,,Calling,Vocalization,air,no photo,15:19,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+821.2,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:41,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+838,5/9/2019,23,12:00,14:00,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:41,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+821,5/10/2019,25,12:10,14:10,34.78218,-115.66239,Passeriformes,Hirundinidae,Violet.green Swallow,,Calling,Vocalization,air,no photo,12:15,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+822,5/10/2019,25,12:10,14:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,12:19,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+823,5/10/2019,25,12:10,14:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,12:19,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+824,5/10/2019,25,12:10,14:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,12:33,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+825,5/10/2019,25,12:10,14:10,,,Columbiformes,Columbidae,Mourning Dove,,Singing,Vocalization,no visual,no photo,12:36,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+826,5/10/2019,25,12:10,14:10,34.78184,-115.66248,Passeriformes,Ptiliogonatidae,Phainopepla,,Sitting on Plant,Inactive,shrub,14.16,12:40,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+827,5/10/2019,25,12:10,14:10,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,12:40,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+828,5/10/2019,25,12:10,14:10,34.78116,-115.66264,Passeriformes,Mimidae,Northern Mockingbird,,Singing,Vocalization,cactus canopy,17.28,12:47,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+829,5/10/2019,25,12:10,14:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:47,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+830,5/10/2019,25,12:10,14:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,12:47,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+831,5/10/2019,25,12:10,14:10,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,12:52,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+832,5/10/2019,25,12:10,14:10,34.78178,-115.66241,Passeriformes,Tyrannidae,Say's Phoebe,,Sitting on Plant,Inactive,shrub,29.37,13:06,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+833,5/10/2019,25,12:10,14:10,34.78176,-115.66241,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,cactus understory,no photo,13:06,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+834,5/10/2019,25,12:10,14:10,,,Passeriformes,Troglodytidae,Cactus Wren,,Singing,Vocalization,no visual,no photo,13:05,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+835,5/10/2019,25,12:10,14:10,34.78173,-115.66182,Passeriformes,Passerellidae,Black.throated Sparrow,,Foraging,Foraging,cactus canopy,51.69,13:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+836,5/10/2019,25,12:10,14:10,34.78173,-115.66182,Passeriformes,Passerellidae,Black.throated Sparrow,,Foraging,Foraging,cactus canopy,51.69,13:10,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+837,5/10/2019,25,12:10,14:10,,,Columbiformes,Columbidae,Mourning Dove,,Standing on Ground,Inactive,rock,38.5,13:12,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+839,5/10/2019,25,12:10,14:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,13:38,3,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+840,5/10/2019,25,12:10,14:10,,,Apodiformes,Trochilidae,Costa's Hummingbird,nectarivore,Singing,Vocalization,no visual,no photo,13:43,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+841,5/10/2019,25,12:10,14:10,34.78004,-115.66315,Passeriformes,Tyrannidae,Western Wood.Pewee,insectivore,Flying,Active movement,cactus canopy,71.163,13:47,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+842,5/10/2019,25,12:10,14:10,34.7788,-115.66298,Passeriformes,Tyrannidae,Western Wood.Pewee,insectivore,Flying,Active movement,air,no photo,13:59,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+843,5/10/2019,25,12:10,14:10,34.7788,-115.66298,Passeriformes,Tyrannidae,Western Wood.Pewee,insectivore,Flying,Active movement,air,no photo,13:59,1,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+844,5/10/2019,25,12:10,14:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,14:00,2,1,34.78299,.115.66235,34.77833,.115.66293,no notes
+845,5/10/2019,26,14:10,16:10,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,14:10,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+846,5/10/2019,26,14:10,16:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Calling,Vocalization,no visual,no photo,14:10,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+847,5/10/2019,26,14:10,16:10,34.77895,-115.66429,Passeriformes,Passerellidae,Black.throated Sparrow,,Foraging,Foraging,shrub,164.205,14:17,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+848,5/10/2019,26,14:10,16:10,34.77895,-115.66429,Passeriformes,Passerellidae,Black.throated Sparrow,,Foraging,Foraging,shrub,164.205,14:17,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+849,5/10/2019,26,14:10,16:10,34.77908,-115.66402,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,14:20,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+850,5/10/2019,26,14:10,16:10,,,Passeriformes,Mimidae,Northern Mockingbird,,Flying,Active movement,air,no photo,14:35,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+851,5/10/2019,26,14:10,16:10,34.7794,-115.664,Passeriformes,Passerellidae,Black.throated Sparrow,,Sparring,Terriotial or mating behavior,shrub,no photo,14:39,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+852,5/10/2019,26,14:10,16:10,34.7794,-115.664,Passeriformes,Passerellidae,Black.throated Sparrow,,Sparring,Terriotial or mating behavior,shrub,no photo,14:39,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+853,5/10/2019,26,14:10,16:10,34.78094,-115.66364,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,223,14:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+854,5/10/2019,26,14:10,16:10,34.78094,-115.66364,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,223,14:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+855,5/10/2019,26,14:10,16:10,34.78094,-115.66364,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,223,14:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+856,5/10/2019,26,14:10,16:10,34.78094,-115.66364,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,223,14:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+857,5/10/2019,26,14:10,16:10,34.78094,-115.66364,Passeriformes,Passerellidae,Black.throated Sparrow,,Flying,Active movement,shrub,223,14:35,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+858,5/10/2019,26,14:10,16:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,14:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+859,5/10/2019,26,14:10,16:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,14:55,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+860,5/10/2019,26,14:10,16:10,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,14:55,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+861,5/10/2019,26,14:10,16:10,34.78104,-115.6635,Passeriformes,Passerellidae,Black.throated Sparrow,,Standing on Ground,Inactive,gravel,no photo,14:57,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+862,5/10/2019,26,14:10,16:10,34.7812,-115.66363,Passeriformes,Passerellidae,Black.throated Sparrow,,Sitting on Plant,Inactive,gravel,227.229,15:01,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+863,5/10/2019,26,14:10,16:10,34.78196,-115.66363,Passeriformes,Parulidae,Nashville Warbler,,Calling,Vocalization,shrub,230.255,15:24,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+864,5/10/2019,26,14:10,16:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:29,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+865,5/10/2019,26,14:10,16:10,,,Passeriformes,Passerellidae,Black.throated Sparrow,,Singing,Vocalization,no visual,no photo,15:39,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+866,5/10/2019,26,14:10,16:10,,,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Calling,Vocalization,no visual,no photo,15:42,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+867,5/10/2019,26,14:10,16:10,34.78259,-115.66328,Apodiformes,Trochilidae,Hummingbird,nectarivore,Flying,Active movement,air,no photo,15:50,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+868,5/10/2019,26,14:10,16:10,,,Passeriformes,Tyrannidae,Ash.throated Flycatcher,insectivore,Calling,Vocalization,no visual,no photo,15:52,2,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+869,5/10/2019,26,14:10,16:10,34.78309,-115.66299,Passeriformes,Passerellidae,Black.throated Sparrow,,Walking,Active movement,gravel,no photo,15:58,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+870,5/10/2019,26,14:10,16:10,,,Galliformes,Odontiphoridae,Gambel's Quail,,Calling,Vocalization,no visual,no photo,16:01,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+871,5/10/2019,26,14:10,16:10,34.78296,-115.66313,Passeriformes,Polioptilidae,Blue.gray Gnatcatcher,,Singing,Vocalization,shrub,no photo,16:07,1,2,34.78303,.115.66309,34.77863,.115.66402,no notes
+872,5/10/2019,26,14:10,16:10,,,Passeriformes,Troglodytidae,Canyon Wren,,Singing,Vocalization,no visual,no photo,16:08,3,2,34.78303,.115.66309,34.77863,.115.66402,no notes
